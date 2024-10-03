@@ -1,2 +1,2 @@
 # CBML-Project
-DIGIT110 project!
+Marking up The Amazing Spiderman comics
