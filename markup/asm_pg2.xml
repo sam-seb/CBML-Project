@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-model href="cbml.rnc" type="application/relax-ng-compact-syntax"?>
+<pg2>
+<cbml:panel n="1" xmlns:cbml="http://www.cbml.org/ns/1.0">
+    <cbml:caption> <bold>A</bold> STORY HAS TO START <bold>SOMEWHERE</bold>, SO LET'S BEGIN WITH A LONELY WAREHOUSE, IN THE DEAD OF NIGHT, WHERE WE FIND A ROBBERY TAKING PLACE..</cbml:caption>
+    <cbml:balloon type="speech">Hold it, you guys! I think I heard somethin'!</cbml:balloon>
+    <cbml:balloon type="speech">Relax, Charlie! It was probably just a mouse!</cbml:balloon>
+</cbml:panel>
+    <cbml:panel n="2" xmlns:cbml="http://www.cbml.org/ns/1.0">
+    <cbml:caption> <bold>S</bold>UDDENLY, THE MOST AWESOME IMAGE IN CRIME-FIGHTING APPEARS ON THE WALL DIRECTLY ABOVE THE STARTLED THIEVES...</cbml:caption>
+    <cbml:balloon type="speech">Mouse? You've never seen a mouse like <bold>this</bold> before!</cbml:balloon>
+    <cbml:balloon type="speech"><bold>L-Look!</bold> It.. It's..</cbml:balloon>
+</cbml:panel>
+
+</pg2>
