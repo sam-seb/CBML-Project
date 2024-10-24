@@ -16,3 +16,7 @@ div {
 h2 { font-size: 30px;
    }
 
+b {
+    color: #ff6347;
+    font-weight: bold;
+}
