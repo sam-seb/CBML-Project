@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-model href="../../../DIGIT110-%20classwork/cbml.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../../../DIGIT110-%20classwork/cbml.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI>
+    <pg2>
+        <cbml:panel n="1" xmlns:cbml="cmbl">
+            <cbml:caption> <bold>A</bold> STORY HAS TO START <bold>SOMEWHERE</bold>, SO LET'S BEGIN WITH A LONELY WAREHOUSE, IN THE DEAD OF NIGHT, WHERE WE FIND A ROBBERY TAKING PLACE..</cbml:caption>
+            <cbml:balloon type="speech">Hold it, you guys! I think I heard somethin'!</cbml:balloon>
+            <cbml:balloon type="speech">Relax, Charlie! It was probably just a mouse!</cbml:balloon>
+        </cbml:panel>
+        <cbml:panel n="2" xmlns:cbml="cmbl">
+            <cbml:caption> <bold>S</bold>UDDENLY, THE MOST AWESOME IMAGE IN CRIME-FIGHTING APPEARS ON THE WALL DIRECTLY ABOVE THE STARTLED THIEVES...</cbml:caption>
+            <cbml:balloon type="speech">Mouse? You've never seen a mouse like <bold>this</bold> before!</cbml:balloon>
+            <cbml:balloon type="speech"><bold>L-Look!</bold> It.. It's..</cbml:balloon>
+        </cbml:panel>
+        
+    </pg2>
+    <pg3>
+    <cbml:panel n="1" xmlns:cbml="cmbl">
+        <cbml:caption> <bold>A</bold>ND LITTLE DOES <bold>SPIDER-MAN</bold> SUSPECT THAT HIS FRIVOLOUS WISH IS ABOUT TO COME TRUE! FOR, AT THAT MOMENT, ON THE OUTSKIRTS OF TOWN...</cbml:caption>
+        <cbml:balloon type="speech">Here comes Doctor Octopus!</cbml:balloon>
+        <cbml:balloon type="speech">Doctor <bold>Octopus?</bold> Why do they call him that?</cbml:balloon>
+        <cbml:balloon type="speech">Watch! You'll see in a minute!</cbml:balloon>
+    </cbml:panel>
+    
+    <cbml:panel n="2" xmlns:cbml="cmbl">
+        <cbml:balloon type="speech">See? It's that especially-designed contraption he wears, which enables him to perform his experiments behind the lead walls which shiled him from radiation!!</cbml:balloon>
+    </cbml:panel>
+    
+    <cbml:panel n="3" xmlns:cbml="cmbl">
+        <cbml:balloon type="speech">He created that get-up himself, and he's the only scientist permitted to wear it!</cbml:balloon>
+        <cbml:balloon type="speech">He's the most brillian atomic-researcher in our country today!</cbml:balloon>
+    </cbml:panel>
+    
+    <cbml:panel n="4" xmlns:cbml="cmbl">
+        <cbml:caption> <bold>Y</bold>ES, SUCH A MAN IS OTTO OCTAVIOUS, BETTER KNOWN TO HIS CO-WORKERS AS <bold>DOCTOR OCTOPUS!</bold> LET US WATCH AS HE CONDUCTS A NUCLEAR EXPERIMENT...</cbml:caption>
+    </cbml:panel>
+    
+    <cbml:panel n="3" xmlns:cbml="cmbl">
+        <cbml:balloon type="thought">My artificial extra arms permit me to work safely with volatile chemicals which are far too dangerous to touch without protection!</cbml:balloon>
+        <cbml:balloon type="thought">Though others fear radiation, I alone am able to make it my <bold>servant!</bold></cbml:balloon>
+    </cbml:panel>
+    </pg3>
+    <pg4>
+        <cbml:panel n="1" xmlns:cbml="cmbl">
+            <cbml:caption>BUT THE WARNING, ALAS, IS GIVEN ТОО LATE! AND BEFORE THE ALARM CAN BE SOUNDED…</cbml:caption></cbml:panel>
+        <cbml:panel n="2" xmlns:cbml="cmbl">
+            <cbml:caption>THEN, AFTER THE FLAMES AND SMOKE HAVE PARTIALLY CLEARED…</cbml:caption>
+            <cbml:balloon type="speech">Doctor Octopus is still breathing! I hope we've reached him in time!</cbml:balloon>
+            <cbml:balloon type="speech">Even though he's still alive, he's absorbed a great deal of radiation - - poor guy!</cbml:balloon>
+        </cbml:panel>
+
+        <cbml:panel n="3" xmlns:cbml="cmbl">
+            <cbml:caption>IN THE HOURS THAT FOLLOW, AFTER EXHAUSTIVE TESTS…</cbml:caption>
+            <cbml:balloon type="speech">The x-rays show an uncertain amount of brain damage! I'm afraid his mind has been permanently damaged!</cbml:balloon>
+            <cbml:balloon type="speech">We can't remove those artificial arms of his yet! The radiation has caused them to adhere to his body in some strange way!</cbml:balloon>
+        </cbml:panel>
+        
+        <cbml:panel n="4" xmlns:cbml="cmbl"><cbml:caption>FINALLY, DAYS LATER, THE INJURED SCIENTIST RECOVERS CONSCIOUSNESS... </cbml:caption>
+            <cbml:balloon type="speech">What am I doing here? let me get up! I must return to my work!</cbml:balloon>
+            <cbml:balloon type="speech">No! you've been very ill! you must stay in bed! you need the rest!</cbml:balloon>
+        </cbml:panel>
+        <cbml:panel n="5" xmlns:cbml="cmbl"><cbml:caption>But THE BRAIN OF DR. OCTOPUS-- THE BRAIN WHICH HAS BEEN DAMAGED BY RADIATION-- REACTS IN A BITTER WAY…</cbml:caption>
+            <cbml:balloon type="thought">They're jealous of me! They want to keep me from my work! But I'll show them! I'm stronger than any of them!</cbml:balloon></cbml:panel>
+        <cbml:panel n="6" xmlns:cbml="cmbl">
+            <cbml:balloon type="thought">The window is barred! They're trying to make a prisoner of me! The fools! No one can hold Doctor Octopus against his will! No one!</cbml:balloon>
+        </cbml:panel> 
+    </pg4>
+</TEI>
