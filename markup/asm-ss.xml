@@ -99,5 +99,105 @@
         <cbml:panel n="6">
             <cbml:balloon type="thought">The window is barred! They're trying to make a prisoner of me! The fools! No one can hold Doctor Octopus against his will! No one!</cbml:balloon>
         </cbml:panel> 
-    </div></body></text>
+    </div>
+        <editor>Temitope Sakote</editor>
+        <div type="page" facs="" n="5">
+            <cbml:panel n="1">
+                <cbml:caption> <hi rend="bold">T</hi>HEN SUDDENLY, AT JUST A SUGGESTION OF A THOUGHT BY DR. OCTOPUS, HIS ARTIFICIAL ARMS MOVE AS THOUGH THEY HAVE A WILL OF THEIR OWN...</cbml:caption>
+                <cbml:balloon type="thought">I’ve got to <hi rend="bold">break</hi> those bars!</cbml:balloon>
+            </cbml:panel>
+            <cbml:panel n="2">
+                <cbml:balloon type="thought"> <hi rend="bold">I did it!!</hi> My <hi rend="bold">arms</hi> did it! Their strength is incalculable! They can do <hi rend="bold">anything!</hi> </cbml:balloon>
+            </cbml:panel>
+            <cbml:panel n="3">
+                <cbml:balloon type="thought">Somehow, my mechanical arms have almost become a <hi rend="bold">part of me!</hi> They obey my every command with such power! And with my brilliant mind, I'm the supreme human being on Earth.</cbml:balloon>
+            </cbml:panel>
+            <cbml:panel n="4">
+                <cbml:caption> <hi rend="bold">M</hi>INUTES LATER...</cbml:caption>
+                <cbml:balloon type="speech">You wanted to see me, Dr. Octopus?</cbml:balloon>
+                <cbml:balloon type="speech">Yes! Come in! Shut the door behind you!</cbml:balloon>
+            </cbml:panel>
+            <cbml:panel n="5">
+                <cbml:balloon type="speech">What is it? You-- oh, no! <hi rend="bold">No!</hi> </cbml:balloon>
+                <cbml:balloon type="speech">Ha-ha! You don't believe what you see? But it's <hi rend="bold">true!</hi> I'm <hi rend="bold">all-powerful!</hi>  From now on, <hi rend="bold">I</hi> give the commands here!</cbml:balloon>
+            </cbml:panel>
+            <cbml:panel n="6">
+                <cbml:caption> <hi rend="bold">M</hi>EANWHILE, AT THE OFFICE OF J. JONAH JAMESON, PUBLISHER OF THE <hi rend="bold">DAILY BUGLE</hi>...</cbml:caption>
+                <cbml:balloon type="speech">I WANT PICTURES OF THE INJURED HEAD SCIENTIST, DR. OCTOPUS, BUT NO ONE IS ALLOWED TO ENTER THE HOSPITAL ANYMORE!</cbml:balloon>
+                <cbml:balloon type="speech">I NEVER <hi rend="bold">HEARD</hi> OF ANY HOSPITAL KEEPING PEOPLE OUT! DON'T WORRY, J.J. <hi rend="bold">I'LL</hi> GET THOSE PIX FOR YOU!</cbml:balloon>
+            </cbml:panel>
+            <cbml:panel n="7">
+                <cbml:balloon type="speech">My best men have tried and failed! But so far you've succeeded in every assignment! I can't imagine how a teenager like you does it!</cbml:balloon>
+                <cbml:balloon type="speech">Argument, J.J., is that you're never to ask me how I do it!</cbml:balloon>
+            </cbml:panel>
+            <cbml:panel n="8">
+                <cbml:balloon type="speech">Just have a check ready for me when I bring back the pix of Dr. Octopus!</cbml:balloon>
+                <cbml:balloon type="thought">He doesn't suspect Peter Parker, the teenager he assigned to the job, is going to have Spider-Man do it!</cbml:balloon>
+            </cbml:panel>
+        </div>
+        
+        <div type="page" facs="" n="6">
+            <cbml:panel n="1">
+                <cbml:caption> <hi rend="bold">A</hi>ND SO...</cbml:caption>
+                <cbml:balloon type="thought">Here's the place! Strange that it's locked and nobody is admitted! What kind of hospital is it, anyway?</cbml:balloon>
+            </cbml:panel>
+            <cbml:panel n="2">
+                <cbml:balloon type="thought">Well, there's <hi rend="bold">one</hi> way to find out... <hi rend="bold">Spider-Man’s</hi> just the cat to do it!</cbml:balloon>
+            </cbml:panel>
+            <cbml:panel n="3">
+                <cbml:balloon type="thought">These suction fingers of mine will get me up the wall in <hi rend="bold">time!</hi> Boy, it's <hi rend="bold">great</hi> being <hi rend="bold">Spider-Man!</hi> I can do almost <hi rend="bold">anything!</hi> </cbml:balloon>
+            </cbml:panel>
+            <cbml:panel n="4">
+                <cbml:balloon type="thought">The only problem is - - my jobs are <hi rend="bold">too</hi> easy! I welcome a little <hi rend="bold">competition</hi> once in a while!</cbml:balloon>
+            </cbml:panel>
+            <cbml:panel n="5">
+                <cbml:caption> <hi rend="bold">A</hi>ND, AS HE STEADILY CLIMBS UP THE SHEER OUTER WALL, LITTLE DOES <hi rend="bold">SPIDER-MAN</hi> DREAM THAT HE IS SOON TO GET FAR <hi rend="bold">MORE</hi> "COMPETITION" THAN HE EVER BARGAINED FOR!</cbml:caption>
+            </cbml:panel>
+            <cbml:panel n="6">
+                <cbml:caption> <hi rend="bold">S</hi>ECONDS LATER...</cbml:caption>
+                <cbml:balloon type="thought">Almost there!</cbml:balloon>
+            </cbml:panel>
+            <cbml:panel n="7">
+                <cbml:balloon type="thought"> <hi rend="bold">Holy mackerel!</hi> What's <hi rend="bold">that?</hi> </cbml:balloon>
+                <cbml:balloon type="speech"> <hi rend="bold">Silence!</hi> Nobody is to speak when <hi rend="bold">Dr. Octopus</hi> speaks!</cbml:balloon>
+            </cbml:panel>
+        </div>
+        
+        <div type="page" facs="" n="7">
+            <cbml:panel n="1">
+                <cbml:caption> <hi rend="bold">P</hi>EERING UNSEEN THROUGH THE LARGE PICTURE WINDOW, <hi rend="bold">SPIDER-MAN</hi> WITNESSES A STRANGE, UNEXPECTED SIGHT...</cbml:caption>
+                <cbml:balloon type="speech">You can’t keep all of us prisoners <hi rend="bold">forever</hi> , Doctor Octopus! We've done what you asked—gotten you all the equipment you wanted! When will you let us go?</cbml:balloon>
+                <cbml:balloon type="speech">Not until <hi rend="bold">I'm</hi> ready! With my powers, <hi rend="bold">no one</hi> can resist me! You'll remain to serve me until I no longer need you—and not before!</cbml:balloon>
+                <cbml:balloon type="thought">Well, well! So the good doc has flipped his lid, eh? Well, this is just what I’ve been <hi rend="bold">hopin'</hi> for—a little <hi rend="bold">action!</hi> </cbml:balloon>
+            </cbml:panel>
+            <cbml:panel n="2">
+                <cbml:balloon type="speech">But this is <hi rend="bold">mad!</hi> You have no right—</cbml:balloon>
+                <cbml:balloon type="speech"> <hi rend="bold">Right?!</hi> You dare speak to me of right?</cbml:balloon>
+            </cbml:panel>
+            <cbml:panel n="3">
+                <cbml:balloon type="speech">I have the <hi rend="bold">right</hi>to do <hi rend="bold">anything—</hi>as long as I have the <hi rend="bold">power!</hi> And if you <hi rend="bold">doubt</hi> my power, here is a small sample...</cbml:balloon>
+                <cbml:balloon type="speech">No! <hi rend="bold">Don’t!</hi> Let me down!</cbml:balloon>
+            </cbml:panel>
+            <cbml:panel n="4">
+                <cbml:balloon type="thought">Looks like it’s time for <hi rend="bold">Spider-Man</hi> to join the party before he really hurts that fella!</cbml:balloon>
+            </cbml:panel>
+            <cbml:panel n="5">
+                <cbml:balloon type="speech">Hold it, doc! How about picking on someone who can fight you back?</cbml:balloon>
+                <cbml:balloon type="speech"> <hi rend="bold">Spider-Man!</hi> </cbml:balloon>
+            </cbml:panel>
+            <cbml:panel n="6">
+                <cbml:balloon type="speech">Well, I sure ain’t Albert Schweitzer!</cbml:balloon>
+                <cbml:balloon type="speech">You dare speak flippantly to <hi rend="bold">me!</hi> You fool! When I'm finished with you, you’ll sing a <hi rend="bold">different</hi> tune!</cbml:balloon>
+            </cbml:panel>
+        </div>
+        <div type="page" facs="" n="8">
+            <cbml:panel n="1">
+                <cbml:balloon type="speech">You don’t think those dumb-looking flappers of yours can move fast enough to catch <hi rend="bold">Spider-Man</hi>, do you?</cbml:balloon>
+            </cbml:panel>
+            <cbml:panel n="2">
+                <cbml:balloon type="speech"><hi rend="bold">HEY...!! WHA—?</hi></cbml:balloon>
+            </cbml:panel>
+        </div>
+    </body>
+ </text>
 </TEI>
