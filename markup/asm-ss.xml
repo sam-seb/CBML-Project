@@ -198,6 +198,52 @@
                 <cbml:balloon type="speech"><hi rend="bold">HEY...!! WHA—?</hi></cbml:balloon>
             </cbml:panel>
         </div>
+        
+        <div type="page" facs="" n="8">
+            <cbml:panel n="1">
+                <cbml:balloon type="speech">You don’t think those dumb-looking flappers of yours can move fast enough to catch <hi rend="bold">spider-man</hi> do you?</cbml:balloon>
+            </cbml:panel>
+            <cbml:panel n="2">
+                <cbml:balloon type="speech"><hi rend="bold">HEY..!! WHA—?</hi></cbml:balloon>
+            </cbml:panel>
+            <cbml:panel n="3">
+                <cbml:balloon type="speech">Surprised? <hi rend="bold">Doctor Octopus</hi> is far more powerful than you dreamed! far more powerful than even <hi rend="bold">you!</hi></cbml:balloon>
+            </cbml:panel>
+            <cbml:panel n="4">
+                <cbml:balloon type="speech">Don’t let that one lucky punch go to your head, pal! I’ve a few more surprises!</cbml:balloon>
+                <cbml:balloon type="thought">Ah! Most ingenious of you! Your spider’s web!!</cbml:balloon>
+            </cbml:panel>
+            <cbml:panel n="5">
+                <cbml:balloon type="thought">But, as you can see, holding only two of my arms isn’t enough! I still have more!</cbml:balloon>
+                <cbml:balloon type="thought">No time to shoot my web again! He’s faster than I expected!
+                </cbml:balloon>
+            </cbml:panel>
+            <cbml:panel n="6">
+                <cbml:balloon type="thought">But i can still grab his other arms!</cbml:balloon>
+                <cbml:balloon type="speech">Oof! It takes all my strength! He—he also has super-human strength!
+                </cbml:balloon>
+            </cbml:panel>
+            <cbml:panel n="7">
+                <cbml:balloon type="thought">My web! He snapped it! Nobody has ever done that before!
+                </cbml:balloon>
+                <cbml:balloon type="speech">And now, Spider-man, I grow bored with this game! My time is too valuable!
+                </cbml:balloon>
+            </cbml:panel>
+        </div>
+        <div type="page" facs="" n="9">
+            <cbml:panel n="1">
+                <cbml:balloon type="speech">Now, watch me trap a spider in a web of my own--a web made of my new-found arms! Your strength is merely that of a spider, but mine is the energy of an atom, born of a nuclear accident!</cbml:balloon>
+                <cbml:balloon type="thought">I’m helpless! Can’t fight all those arms at once! Don’t know what to do next! He’s just toying with me!</cbml:balloon>
+            </cbml:panel>
+            <cbml:panel n="2">
+                <cbml:balloon type="speech">You dared to mock me before! Why aren’t you mocking me now? where are your brave words and taunts now, Spider-man?</cbml:balloon>
+            </cbml:panel>
+            <cbml:panel n="3">
+                <cbml:balloon type="speech">Or do you realize you’ve finally met your master? And now, you can leave the way you entered! You’re no threat to me!</cbml:balloon>
+            </cbml:panel>
+            <cbml:panel n="4">
+                <cbml:caption>WEAK, GROGGY, JUST BARELY CONSCIOUS, SPIDER-MAN HAS HIS FALL BROKEN BY A TREE, AS HE FINALLY SLUMPS TO THE GROUND... IN DEFEAT.</cbml:caption>
+            </cbml:panel>
     </body>
  </text>
 </TEI>
