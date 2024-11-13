@@ -212,7 +212,6 @@
                 <cbml:balloon type="speech" who="doc_ock"> <hi rend="bold">Spider-Man!</hi> </cbml:balloon>
             </cbml:panel>
             <cbml:panel n="6">
-<<<<<<< HEAD
                 <cbml:balloon type="speech">Well, I sure ain’t Albert Schweitzer!</cbml:balloon>
                 <cbml:balloon type="speech">You dare speak flippantly to <hi rend="bold">me!</hi> You fool! When I'm finished with you, you’ll sing a <hi rend="bold">different</hi> tune!</cbml:balloon>
             </cbml:panel>
@@ -220,16 +219,6 @@
         <div type="page" facs="" n="8">
             <cbml:panel n="1">
                 <cbml:balloon type="speech">You don’t think those dumb-looking flappers of yours can move fast enough to catch <hi rend="bold">spider-man</hi> do you?</cbml:balloon>
-=======
-                <cbml:balloon type="speech" who="spiderman">Well, I sure ain’t Albert Schweitzer!</cbml:balloon>
-                <cbml:balloon type="speech" who="doc_ock">You dare speak flippantly to <hi rend="bold">me!</hi> You fool! When I'm finished with you, you’ll sing a <hi rend="bold">different</hi> tune!</cbml:balloon>
-            </cbml:panel>
-        </div>
-        
-        <div type="page" facs="" n="8">
-            <cbml:panel n="1">
-                <cbml:balloon type="speech" who="spiderman">You don’t think those dumb-looking flappers of yours can move fast enough to catch <hi rend="bold">spider-man</hi> do you?</cbml:balloon>
->>>>>>> 3c816c82a366702936ecfc78d95f6d9fb5ce9f1b
             </cbml:panel>
             <cbml:panel n="2">
                 <cbml:balloon type="speech" who="spiderman"><hi rend="bold">HEY..!! WHA—?</hi></cbml:balloon>
@@ -238,11 +227,11 @@
                 <cbml:balloon type="speech" who="doc_ock">Surprised? <hi rend="bold">Doctor Octopus</hi> is far more powerful than you dreamed! far more powerful than even <hi rend="bold">you!</hi></cbml:balloon>
             </cbml:panel>
             <cbml:panel n="4">
-                <cbml:balloon type="speech" who="who="spiderman"">Don’t let that one lucky punch go to your head, pal! I’ve a few more surprises!</cbml:balloon>
+                <cbml:balloon type="speech" who="spiderman">Don’t let that one lucky punch go to your head, pal! I’ve a few more surprises!</cbml:balloon>
                 <cbml:balloon type="thought" who="doc_ock">Ah! Most ingenious of you! Your spider’s web!!</cbml:balloon>
             </cbml:panel>
             <cbml:panel n="5">
-                <cbml:balloon type="thought" who+doc_ock>But, as you can see, holding only two of my arms isn’t enough! I still have more!</cbml:balloon>
+                <cbml:balloon type="thought" who="doc_ock">But, as you can see, holding only two of my arms isn’t enough! I still have more!</cbml:balloon>
                 <cbml:balloon type="thought" who="spiderman">No time to shoot my web again! He’s faster than I expected!
                 </cbml:balloon>
             </cbml:panel>
@@ -274,8 +263,9 @@
             </cbml:panel>
             
             
-            
-            
+        </div>     
+            <!-- 2024-11-13 ebb: Temi's code begins here. 
+                From here on, the code is missing @who attributes to identify who is speeking or thinking in the cbml:balloon elements. -->
             
             
             <div type="page" facs="" n="16">
