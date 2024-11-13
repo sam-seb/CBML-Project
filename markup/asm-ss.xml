@@ -218,7 +218,11 @@
         </div>
         <div type="page" facs="" n="8">
             <cbml:panel n="1">
+<<<<<<< HEAD
                 <cbml:balloon type="speech" who="spiderman">You don’t think those dumb-looking flappers of yours can move fast enough to catch <hi rend="bold">spider-man</hi> do you?</cbml:balloon>
+=======
+                <cbml:balloon type="speech">You don’t think those dumb-looking flappers of yours can move fast enough to catch <hi rend="bold">spider-man</hi> do you?</cbml:balloon>
+>>>>>>> 970d82e38a330bb07ea40958f3f14e4bf3cab2be
             </cbml:panel>
             <cbml:panel n="2">
                 <cbml:balloon type="speech" who="spiderman"><hi rend="bold">HEY..!! WHA—?</hi></cbml:balloon>
@@ -231,7 +235,11 @@
                 <cbml:balloon type="thought" who="doc_ock">Ah! Most ingenious of you! Your spider’s web!!</cbml:balloon>
             </cbml:panel>
             <cbml:panel n="5">
+<<<<<<< HEAD
                 <cbml:balloon type="thought" who= "doc_ock">But, as you can see, holding only two of my arms isn’t enough! I still have more!</cbml:balloon>
+=======
+                <cbml:balloon type="thought" who="doc_ock">But, as you can see, holding only two of my arms isn’t enough! I still have more!</cbml:balloon>
+>>>>>>> 970d82e38a330bb07ea40958f3f14e4bf3cab2be
                 <cbml:balloon type="thought" who="spiderman">No time to shoot my web again! He’s faster than I expected!
                 </cbml:balloon>
             </cbml:panel>
@@ -263,8 +271,9 @@
             </cbml:panel>
             
             
-            
-            
+        </div>     
+            <!-- 2024-11-13 ebb: Temi's code begins here. 
+                From here on, the code is missing @who attributes to identify who is speeking or thinking in the cbml:balloon elements. -->
             
             
             <div type="page" facs="" n="16">
