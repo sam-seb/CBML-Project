@@ -37,7 +37,7 @@
 
     <text>
         <body>
-            <div type="page" facs="" n="2">
+            <div type="page" facs="../docs/images/asm_pg2.jpeg" n="2">
                 <cbml:panel n="1">
                     <cbml:caption>
                         <hi rend="bold">A</hi> STORY HAS TO START <hi rend="bold">SOMEWHERE</hi>, SO
@@ -93,7 +93,7 @@
                 </cbml:panel>
 
             </div>
-            <div type="page" facs="" n="3">
+            <div type="page" facs="../docs/images/asm_pg3.jpeg" n="3">
 
                 <cbml:panel n="1">
                     <cbml:caption><hi rend="bold">A</hi>ND LITTLE DOES <hi rend="bold"
@@ -146,7 +146,7 @@
                 </cbml:panel>
             </div>
 
-            <div type="page" facs="" n="4">
+            <div type="page" facs="../docs/images/asm_pg4.jpeg" n="4">
                 <cbml:panel n="1">
                     <cbml:caption>BUT THE WARNING, ALAS, IS GIVEN ТОО LATE! AND BEFORE THE ALARM CAN
                         BE SOUNDED…</cbml:caption>
@@ -192,7 +192,7 @@
                 </cbml:panel>
             </div>
 
-            <div type="page" facs="" n="5">
+            <div type="page" facs="../docs/images/asm_pg5.jpeg" n="5">
                 <cbml:panel n="1">
                     <cbml:caption>
                         <hi rend="bold">T</hi>HEN SUDDENLY, AT JUST A SUGGESTION OF A THOUGHT BY DR.
@@ -256,7 +256,7 @@
                 </cbml:panel>
             </div>
 
-            <div type="page" facs="" n="6">
+            <div type="page" facs="../docs/images/asm_pg6.jpeg" n="6">
                 <cbml:panel n="1">
                     <cbml:caption>
                         <hi rend="bold">A</hi>ND SO...</cbml:caption>
@@ -303,7 +303,7 @@
                 </cbml:panel>
             </div>
 
-            <div type="page" facs="" n="7">
+            <div type="page" facs="../docs/images/asm_pg7.jpeg" n="7">
                 <cbml:panel n="1">
                     <cbml:caption>
                         <hi rend="bold">P</hi>EERING UNSEEN THROUGH THE LARGE PICTURE WINDOW, <hi
@@ -354,7 +354,7 @@
                             rend="bold">different</hi> tune!</cbml:balloon>
                 </cbml:panel>
             </div>
-            <div type="page" facs="" n="8">
+            <div type="page" facs="../docs/images/asm_pg8.jpeg" n="8">
                 <cbml:panel n="1">
                     <cbml:balloon type="speech" who="spiderman">You don’t think those dumb-looking
                         flappers of yours can move fast enough to catch <hi rend="bold"
@@ -394,7 +394,7 @@
                         this game! My time is too valuable! </cbml:balloon>
                 </cbml:panel>
             </div>
-            <div type="page" facs="" n="9">
+            <div type="page" facs="../docs/images/asm_pg9.jpeg" n="9">
                 <cbml:panel n="1">
                     <cbml:balloon type="speech" who="doc_ock">Now, watch me trap a spider in a web
                         of my own--a web made of my new-found arms! Your strength is merely that of
@@ -419,8 +419,47 @@
                         BROKEN BY A TREE, AS HE FINALLY SLUMPS TO THE GROUND... IN
                         DEFEAT.</cbml:caption>
                 </cbml:panel>
-
-
+            </div>
+            <div type="page" facs="../docs/images/asm_pg10.jpeg" n="10">
+                <cbml:panel n="1">
+                    <cbml:balloon type="thought" who="spiderman">He beat me! I--I never had a chance!</cbml:balloon>
+                </cbml:panel>
+                <cbml:panel n="2">
+                    <cbml:balloon type="thought" who="spiderman">I didn’t even give him a good fight! He could’ve finished me off any time he wanted to!</cbml:balloon>
+                </cbml:panel>
+                <cbml:panel n="3">
+                    <cbml:caption>NOT LONG AFTERWARDS, AT THE HOSPITAL...</cbml:caption>
+                    <cbml:balloon type="thought" who="doc_ock">Even though I defeated Spider-Man, my prisoners escaped during the fight! I must leave, before the police arrive!</cbml:balloon>
+                </cbml:panel>
+                <cbml:panel n="4">
+                    <cbml:balloon type="thought" who="doc_ock">With my arms, I can go anywhere... Do anything! Fences can’t stop me! No one can catch me!</cbml:balloon>
+                </cbml:panel>  
+                <cbml:panel n="5">
+                    <cbml:balloon type="thought" who="doc_ock">Now that I have reached my objective, any unlocked window will furnish an entrance for me!</cbml:balloon>
+                </cbml:panel> 
+                <cbml:panel n="6">
+                    <cbml:balloon type="thought" who="doc_ock">The security police aren’t apt to notice an extra pipe or two up on the ceiling! Once he’s gone, I can act freely!</cbml:balloon>
+                </cbml:panel> 
+            </div>
+            <div type="page" facs="" n="11">
+                <cbml:panel n="1">
+                    <cbml:balloon type="thought" who="doc_ock">This is what I’m after! The brain center of the entire atomic lab! Once I take it over, the greatest source of atomic power in the nation will be mine!</cbml:balloon>
+                </cbml:panel>
+                <cbml:panel n="2">
+                    <cbml:balloon type="thought" who="doc_ock">It’s an easy matter for Doctor Octopus to unlock a door!</cbml:balloon>
+                </cbml:panel>
+                <cbml:panel n="3">
+                    <cbml:balloon type="speech" who="doc_ock">Out! All of you!… I’m taking over now!</cbml:balloon>
+                    <cbml:balloon type="speech" who="worker1">D-Did you see that? It was Doctor Octopus!</cbml:balloon>
+                    <cbml:balloon type="speech" who="worker2">But what’s he up to?</cbml:balloon>
+                </cbml:panel>
+                <cbml:panel n="4">
+                    <cbml:balloon type="thought" who="doc_ock">Nothing can stop me now! Between my own super-strength and the atomic power which is mine to command here, I’m the strongest man alive! But first, I’ll give the world a demonstration of my strength! I’ll destroy part of this plant and rebuild it to suit myself!</cbml:balloon>
+                </cbml:panel>
+                <cbml:panel n="5">
+                    <cbml:caption>And so…</cbml:caption>
+                    <cbml:balloon type="thought" who="worker">Something’s happened to the lead shielding! It’s been lowered! The radiation is starting to escape!</cbml:balloon>
+                </cbml:panel>
             </div>
 
         </body>
