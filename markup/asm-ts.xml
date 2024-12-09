@@ -41,7 +41,7 @@
 
     <text>
         <body>
-            <div type="page" facs="" n="16">
+            <div type="page" facs="../docs/images/asm_pg16.jpeg" n="16">
                 <cbml:panel n="1">
                     <cbml:balloon type="thought" who="doc_ock">But I’ll defeat him with my
                         all-powerful <hi rend="bold">arms</hi>, as I did before! He won’t elude me
@@ -70,7 +70,7 @@
                         anything goes wrong.</cbml:balloon>
                 </cbml:panel>
             </div>
-            <div type="page" facs="" n="17">
+            <div type="page" facs="../docs/images/asm_pg17.jpeg" n="17">
                 <cbml:panel n="1">
                     <cbml:balloon type="thought" who="spiderman">I still can't be sure this will
                         work, but I've <hi rend="bold">GOT</hi> to try it!</cbml:balloon>
@@ -118,7 +118,7 @@
                         good!</cbml:balloon>
                 </cbml:panel>
             </div>
-            <div type="page" facs="" n="18">
+            <div type="page" facs="../docs/images/asm_pg18.jpeg" n="18">
                 <cbml:panel n="1">
                     <cbml:balloon type="narration"><hi rend="bold">S</hi> LOWLY, INEXORABLY, <hi
                             rend="bold">DR. OCTOPUS</hi> FORCES <hi rend="bold">SPIDER-MAN</hi> BACK
@@ -163,7 +163,7 @@
                         incredible strength!</cbml:balloon>
                 </cbml:panel>
             </div>
-            <div type="page" facs="" n="19">
+            <div type="page" facs="../docs/images/asm_pg19.jpeg" n="19">
                 <cbml:panel n="1">
                     <cbml:balloon type="speech" who="doc_ock">Ah... <hi rend="bold">there!!</hi> I
                         got them off!</cbml:balloon>
@@ -210,7 +210,7 @@
                             and—<hi rend="bold">look!</hi> over there!</cbml:balloon>
                 </cbml:panel>
             </div>
-            <div type="page" facs="" n="20">
+            <div type="page" facs="../docs/images/asm_pg20.jpeg" n="20">
                 <cbml:panel n="1">
                     <cbml:balloon type="speech" who="Soldier 1">It’s the sign of <hi rend="bold"
                             >Spider-Man!</hi></cbml:balloon>
@@ -249,7 +249,7 @@
                         room is just ahead!</cbml:balloon>
                 </cbml:panel>
             </div>
-            <div type="page" facs="" n="21">
+            <div type="page" facs="../docs/images/asm_pg21.jpeg" n="21">
                 <cbml:panel n="1">
                     <cbml:balloon type="narration">
                         <hi rend="bold">A</hi>ND INSIDE THE ROOM IN QUESTION...</cbml:balloon>

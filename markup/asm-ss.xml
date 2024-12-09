@@ -441,7 +441,7 @@
                     <cbml:balloon type="thought" who="doc_ock">The security police aren’t apt to notice an extra pipe or two up on the ceiling! Once he’s gone, I can act freely!</cbml:balloon>
                 </cbml:panel> 
             </div>
-            <div type="page" facs="" n="11">
+            <div type="page" facs="../docs/images/asm_pg11.jpeg" n="11">
                 <cbml:panel n="1">
                     <cbml:balloon type="thought" who="doc_ock">This is what I’m after! The brain center of the entire atomic lab! Once I take it over, the greatest source of atomic power in the nation will be mine!</cbml:balloon>
                 </cbml:panel>
@@ -458,8 +458,113 @@
                 </cbml:panel>
                 <cbml:panel n="5">
                     <cbml:caption>And so…</cbml:caption>
-                    <cbml:balloon type="thought" who="worker">Something’s happened to the lead shielding! It’s been lowered! The radiation is starting to escape!</cbml:balloon>
+                    <cbml:balloon type="speech" who="worker">Something’s happened to the lead shielding! It’s been lowered! The radiation is starting to escape!</cbml:balloon>
                 </cbml:panel>
+                <cbml:panel n="6">
+                    <cbml:balloon type="speech" who="worker">Look! The giant machines are running out of control--as though some madman is guiding them.</cbml:balloon>
+                </cbml:panel>
+                <cbml:panel n="7">
+                    <cbml:balloon type="speech" who="worker">There’s too much pressure in the main valves! The pipes are overheating… exploding! It isn’t safe to stay here!</cbml:balloon>
+                </cbml:panel>
+            </div>
+            <div type="page" facs="../docs/images/asm_pg12.jpeg" n="12">
+                <cbml:panel n="1">
+                    <cbml:caption>But, within minutes, the source of the trouble is made known, and...</cbml:caption>
+                    <cbml:balloon type="speech" who="worker1">We’ve got to reach Doctor Octopus somehow!</cbml:balloon>
+                    <cbml:balloon type="speech" who="worker2">We can’t! He’s set up electronic barriers all over the place!</cbml:balloon>
+                </cbml:panel>
+                <cbml:panel n="2">
+                    <cbml:caption>And, before long, the entire plant is evacuated, except for...</cbml:caption>
+                    <cbml:balloon type="speech" who="doc_ock">They realize I cannot be stopped and have given up trying! I’ve won! The plant is mine! I am now in complete control!</cbml:balloon>
+                </cbml:panel>
+                <cbml:panel n="3">
+                    <cbml:caption>The foremost brains of the nation’s armed forces and security agencies confer feverishly, but to no avail...</cbml:caption>
+                    <cbml:balloon type="speech" who="milOff1">We’ve never been up against anything like this before! A brilliant scientist, with super-human powers, on a mad rampage!</cbml:balloon>
+                    <cbml:balloon type="speech" who="milOff2">If we can’t stop him, then we must see that innocent people are not injured!</cbml:balloon>
+                </cbml:panel>
+                
+                
+               <!-- <cbml:panel n="4">
+                    <cbml:balloon type="" who=""></cbml:balloon>
+                </cbml:panel>
+                <cbml:panel n="5">
+                    <cbml:balloon type="" who=""></cbml:balloon>
+                </cbml:panel>
+                <cbml:panel n="6">
+                    <cbml:balloon type="" who=""></cbml:balloon>
+                </cbml:panel>
+                <cbml:panel n="7">
+                    <cbml:balloon type="" who=""></cbml:balloon>
+                </cbml:panel>
+            </div>
+            <div type="page" facs="../docs/images/asm_pg13.jpeg" n="13">
+                <cbml:panel n="1">
+                    <cbml:balloon type="" who=""></cbml:balloon>
+                </cbml:panel>
+                <cbml:panel n="2">
+                    <cbml:balloon type="" who=""></cbml:balloon>
+                </cbml:panel>
+                <cbml:panel n="3">
+                    <cbml:balloon type="" who=""></cbml:balloon>
+                </cbml:panel>
+                <cbml:panel n="4">
+                    <cbml:balloon type="" who=""></cbml:balloon>
+                </cbml:panel>
+                <cbml:panel n="5">
+                    <cbml:balloon type="" who=""></cbml:balloon>
+                </cbml:panel>
+                <cbml:panel n="6">
+                    <cbml:balloon type="" who=""></cbml:balloon>
+                </cbml:panel>
+                <cbml:panel n="7">
+                    <cbml:balloon type="" who=""></cbml:balloon>
+                </cbml:panel>
+                <cbml:panel n="8">
+                    <cbml:balloon type="" who=""></cbml:balloon>
+                </cbml:panel>
+            </div>
+            <div type="page" facs="../docs/images/asm_pg14.jpeg" n="14">
+                <cbml:panel n="1">
+                    <cbml:balloon type="" who=""></cbml:balloon>
+                </cbml:panel>
+                <cbml:panel n="2">
+                    <cbml:balloon type="" who=""></cbml:balloon>
+                </cbml:panel>
+                <cbml:panel n="3">
+                    <cbml:balloon type="" who=""></cbml:balloon>
+                </cbml:panel>
+                <cbml:panel n="4">
+                    <cbml:balloon type="" who=""></cbml:balloon>
+                </cbml:panel>
+                <cbml:panel n="5">
+                    <cbml:balloon type="" who=""></cbml:balloon>
+                </cbml:panel>
+                <cbml:panel n="6">
+                    <cbml:balloon type="" who=""></cbml:balloon>
+                </cbml:panel>
+                <cbml:panel n="7">
+                    <cbml:balloon type="" who=""></cbml:balloon>
+                </cbml:panel>
+            </div>
+            <div type="page" facs="../docs/images/asm_pg15.jpeg" n="15">
+                <cbml:panel n="1">
+                    <cbml:balloon type="" who=""></cbml:balloon>
+                </cbml:panel>
+                <cbml:panel n="2">
+                    <cbml:balloon type="" who=""></cbml:balloon>
+                </cbml:panel>
+                <cbml:panel n="3">
+                    <cbml:balloon type="" who=""></cbml:balloon>
+                </cbml:panel>
+                <cbml:panel n="4">
+                    <cbml:balloon type="" who=""></cbml:balloon>
+                </cbml:panel>
+                <cbml:panel n="5">
+                    <cbml:balloon type="" who=""></cbml:balloon>
+                </cbml:panel>
+                <cbml:panel n="6">
+                    <cbml:balloon type="" who=""></cbml:balloon>
+                </cbml:panel>-->
             </div>
 
         </body>
