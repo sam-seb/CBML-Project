@@ -484,34 +484,48 @@
                 </cbml:panel>
                 
                 
-               <!-- <cbml:panel n="4">
-                    <cbml:balloon type="" who=""></cbml:balloon>
+               <cbml:panel n="4">
+                   <cbml:caption>And so, the order goes out—no one is allowed in or out of the atomic plant...</cbml:caption>
+                   <cbml:balloon type="thought" who="guard">Can’t figure out why they post sentries here! If Dr. Octopus tries to get out, how can we stop him?</cbml:balloon>
                 </cbml:panel>
                 <cbml:panel n="5">
-                    <cbml:balloon type="" who=""></cbml:balloon>
+                    <cbml:caption>Meanwhile, what of teen-age Peter Parker, alias Spider-Man?</cbml:caption>
+                    <cbml:balloon type="thought" who="may">Poor Peter’s been moping in his room for hours! I wish he’d tell me what’s wrong!</cbml:balloon>
+                    <cbml:balloon type="thought" who="peter parker">I’m a failure! Spider-Man is a joke... a nothing. There's the phone!</cbml:balloon>
+                    <cbml:caption>BR-I-I-NG!</cbml:caption>
                 </cbml:panel>
                 <cbml:panel n="6">
-                    <cbml:balloon type="" who=""></cbml:balloon>
+                    <cbml:balloon type="speech" who="peter parker">Mr. Jameson? No, I won’t be able to get the pictures of Doctor Octopus! No, I probably won’t be able to get any more! Sorry... yeah... good bye.</cbml:balloon>
                 </cbml:panel>
                 <cbml:panel n="7">
-                    <cbml:balloon type="" who=""></cbml:balloon>
+                    <cbml:balloon type="speech" who="may">Peter, dear, what’s wrong? I can’t bear to see you so unhappy! Is there anything I can do to help?</cbml:balloon>
+                    <cbml:balloon type="speech" who="peter parker">No, Aunt May... it’s... it’s my own personal problem! I’ll get over it! Got to leave now... time for school!</cbml:balloon>
                 </cbml:panel>
             </div>
             <div type="page" facs="../docs/images/asm_pg13.jpeg" n="13">
                 <cbml:panel n="1">
-                    <cbml:balloon type="" who=""></cbml:balloon>
+                    <cbml:balloon type="speech" who="kid1">Hello, Petey!... Say, what's wrong with him? He didn't answer!</cbml:balloon>
+                    <cbml:balloon type="thought" who="peter parker">And there's no one I can talk to... No one who'd understand!</cbml:balloon>
+                    <cbml:balloon type="speech" who="kid2">Him? He's down in the dumps! Looks like he lost his favorite test tube!</cbml:balloon>
                 </cbml:panel>
                 <cbml:panel n="2">
-                    <cbml:balloon type="" who=""></cbml:balloon>
+                    <cbml:balloon type="speech" who="kid1">Pete, did you hear the big news? The governer's asked the Fantastic Four to try to capture Doctor Octopus!</cbml:balloon>
+                    <cbml:balloon type="speech" who="kid3">They're busy with another case, but they sent the Human Torch to see what he can do! He's speaking at our assembly today!</cbml:balloon>
+                    <cbml:balloon type="thought" who="peter parker">Big deal!</cbml:balloon>
                 </cbml:panel>
                 <cbml:panel n="3">
-                    <cbml:balloon type="" who=""></cbml:balloon>
+                    <cbml:caption>Later, at the school assembly...</cbml:caption>
+                    <cbml:balloon type="speech" who="human torch"> I was asked here to tackle Doctor Octopus. But I've used my flame so much recently, I have to wait a few days to let it get strong again! While I'm waiting, your principal asked me to address you...</cbml:balloon>
+                    <cbml:balloon type="thought" who="peter parker">If only I had his power... his confidence!... But that's wasy when you've never been beaten!</cbml:balloon>
                 </cbml:panel>
                 <cbml:panel n="4">
-                    <cbml:balloon type="" who=""></cbml:balloon>
+                    <cbml:balloon type="speech" who="human torch">Now for a little demonstration! I can't apply my total flame, but here are some fiery figures for you!</cbml:balloon>
+                    <cbml:balloon type="speech" who="human torch">This is what usually happens when The Thing helps me with my homework! I get results like this!</cbml:balloon>
                 </cbml:panel>
                 <cbml:panel n="5">
-                    <cbml:balloon type="" who=""></cbml:balloon>
+                    <cbml:caption>Then, after a few more colorful demonstrations...</cbml:caption>
+                    <cbml:balloon type="speech" who="human torch">Now, for a parting thought! Stick to your school work and do your best in your studies! Don't be discouraged if it sometimes seems tough! The important thing is never give up! Remember that-- never give up!</cbml:balloon>
+                    <cbml:balloon type="thought" who="peter parker">It's almost as though he's talking to me!</cbml:balloon>
                 </cbml:panel>
                 <cbml:panel n="6">
                     <cbml:balloon type="" who=""></cbml:balloon>
@@ -564,7 +578,7 @@
                 </cbml:panel>
                 <cbml:panel n="6">
                     <cbml:balloon type="" who=""></cbml:balloon>
-                </cbml:panel>-->
+                </cbml:panel>
             </div>
 
         </body>
