@@ -148,11 +148,11 @@
 
             <div type="page" facs="../docs/images/asm_pg4.jpeg" n="4">
                 <cbml:panel n="1">
-                    <cbml:caption>BUT THE WARNING, ALAS, IS GIVEN ТОО LATE! AND BEFORE THE ALARM CAN
+                    <cbml:caption><hi rend="bold">B</hi>UT THE WARNING, ALAS, IS GIVEN ТОО LATE! AND BEFORE THE ALARM CAN
                         BE SOUNDED…</cbml:caption>
                 </cbml:panel>
                 <cbml:panel n="2">
-                    <cbml:caption>THEN, AFTER THE FLAMES AND SMOKE HAVE PARTIALLY
+                    <cbml:caption><hi rend="bold">T</hi>HEN, AFTER THE FLAMES AND SMOKE HAVE PARTIALLY
                         CLEARED…</cbml:caption>
                     <cbml:balloon type="speech" who="assistant1">Doctor Octopus is still breathing!
                         I hope we've reached him in time!</cbml:balloon>
@@ -161,7 +161,7 @@
                 </cbml:panel>
 
                 <cbml:panel n="3">
-                    <cbml:caption>IN THE HOURS THAT FOLLOW, AFTER EXHAUSTIVE TESTS…</cbml:caption>
+                    <cbml:caption><hi rend="bold">I</hi>N THE HOURS THAT FOLLOW, AFTER EXHAUSTIVE TESTS…</cbml:caption>
                     <cbml:balloon type="speech" who="doctor">The x-rays show an uncertain amount of
                         brain damage! I'm afraid his mind has been permanently
                         damaged!</cbml:balloon>
@@ -171,7 +171,7 @@
                 </cbml:panel>
 
                 <cbml:panel n="4">
-                    <cbml:caption>FINALLY, DAYS LATER, THE INJURED SCIENTIST RECOVERS
+                    <cbml:caption><hi rend="bold">F</hi>INALLY, DAYS LATER, THE INJURED SCIENTIST RECOVERS
                         CONSCIOUSNESS... </cbml:caption>
                     <cbml:balloon type="speech" who="doc_ock">What am I doing here? let me get up! I
                         must return to my work!</cbml:balloon>
@@ -179,16 +179,16 @@
                         in bed! you need the rest!</cbml:balloon>
                 </cbml:panel>
                 <cbml:panel n="5">
-                    <cbml:caption>But THE BRAIN OF DR. OCTOPUS-- THE BRAIN WHICH HAS BEEN DAMAGED BY
+                    <cbml:caption><hi rend="bold">B</hi>UT THE BRAIN OF DR. OCTOPUS-- THE BRAIN WHICH HAS BEEN DAMAGED BY
                         RADIATION-- REACTS IN A BITTER WAY…</cbml:caption>
                     <cbml:balloon type="thought" who="doc_ock">They're jealous of me! They want to
-                        keep me from my work! But I'll show them! I'm stronger than any of
+                        keep me from my work! But I'll show them! I'm stronger than <hi rend="bold">any</hi> of
                         them!</cbml:balloon>
                 </cbml:panel>
                 <cbml:panel n="6">
                     <cbml:balloon type="thought" who="doc_ock">The window is barred! They're trying
-                        to make a prisoner of me! The fools! No one can hold Doctor Octopus against
-                        his will! No one!</cbml:balloon>
+                        to make a <hi rend="bold">prisoner</hi> of me! The fools! <hi rend="bold">No one</hi> can hold <hi rend="bold">Doctor Octopus</hi> against
+                        his will! <hi rend="bold">No one!</hi></cbml:balloon>
                 </cbml:panel>
             </div>
 
@@ -233,25 +233,23 @@
                     <cbml:caption>
                         <hi rend="bold">M</hi>EANWHILE, AT THE OFFICE OF J. JONAH JAMESON, PUBLISHER
                         OF THE <hi rend="bold">DAILY BUGLE</hi>...</cbml:caption>
-                    <cbml:balloon type="speech" who="jj">I WANT PICTURES OF THE INJURED HEAD
-                        SCIENTIST, DR. OCTOPUS, BUT NO ONE IS ALLOWED TO ENTER THE HOSPITAL
-                        ANYMORE!</cbml:balloon>
-                    <cbml:balloon type="speech" who="assistant">I NEVER <hi rend="bold">HEARD</hi>
-                        OF ANY HOSPITAL KEEPING PEOPLE OUT! DON'T WORRY, J.J. <hi rend="bold"
-                            >I'LL</hi> GET THOSE PIX FOR YOU!</cbml:balloon>
+                    <cbml:balloon type="speech" who="jj">I want pictueres of the injured head scientist, Dr. Octopus, but no one is allowed to enter the hospital anymore!</cbml:balloon>
+                    <cbml:balloon type="speech" who="assistant">I never <hi rend="bold">heard</hi>
+                        of any hospital keeping people out! Don't worry, J.J. <hi rend="bold"
+                            >I'll</hi> get those pix for you!</cbml:balloon>
                 </cbml:panel>
                 <cbml:panel n="7">
                     <cbml:balloon type="speech" who="jj">My best men have tried and failed! But so
-                        far you've succeeded in every assignment! I can't imagine how a teenager
-                        like you does it!</cbml:balloon>
-                    <cbml:balloon type="speech" who="assistant">Argument, J.J., is that you're never
-                        to ask me how I do it!</cbml:balloon>
+                        far you've succeeded in every assignment! I can't imagine how a teen-ager
+                        like you <hi rend="bold">does</hi> it!</cbml:balloon>
+                    <cbml:balloon type="speech" who="peter parker">Our agreement, J.J., is that you're never
+                        to ask me <hi rend="bold">how</hi> I do it!</cbml:balloon>
                 </cbml:panel>
                 <cbml:panel n="8">
-                    <cbml:balloon type="speech" who="assistant">Just have a check ready for me when
+                    <cbml:balloon type="speech" who="peter parker">Just have a check ready for me when
                         I bring back the pix of Dr. Octopus!</cbml:balloon>
-                    <cbml:balloon type="thought" who="assistant">He doesn't suspect Peter Parker,
-                        the teenager he assigned to the job, is going to have Spider-Man do
+                    <cbml:balloon type="thought" who="peter parker">He doesn't suspect Peter Parker,
+                        the teenager he assigned to the job, is going to have <hi rend="bold">Spider-Man</hi> do
                         it!</cbml:balloon>
                 </cbml:panel>
             </div>
@@ -371,68 +369,69 @@
                 </cbml:panel>
                 <cbml:panel n="4">
                     <cbml:balloon type="speech" who="spiderman">Don’t let that one lucky punch go to
-                        your head, pal! I’ve a few more surprises!</cbml:balloon>
+                        your head, pal! I’ve a few <hi rend="bold">more</hi> surprises!</cbml:balloon>
                     <cbml:balloon type="thought" who="doc_ock">Ah! Most ingenious of you! Your
                         spider’s web!!</cbml:balloon>
                 </cbml:panel>
                 <cbml:panel n="5">
-                    <cbml:balloon type="thought" who="doc_ock">But, as you can see, holding only two
-                        of my arms isn’t enough! I still have more!</cbml:balloon>
+                    <cbml:balloon type="thought" who="doc_ock">But, as you can see, holding only <hi rend="bold">two</hi>
+                        of my arms isn’t enough! I still have <hi rend="bold">more</hi>!</cbml:balloon>
                     <cbml:balloon type="thought" who="spiderman">No time to shoot my web again! He’s
                         faster than I expected! </cbml:balloon>
                 </cbml:panel>
                 <cbml:panel n="6">
-                    <cbml:balloon type="thought" who="spiderman">But i can still grab his other
+                    <cbml:balloon type="thought" who="spiderman">But I can still <hi rend="bold">grab</hi> his other
                         arms!</cbml:balloon>
-                    <cbml:balloon type="speech" who="spiderman">Oof! It takes all my strength! He—he
-                        also has super-human strength! </cbml:balloon>
+                    <cbml:balloon type="speech" who="spiderman"><hi rend="bold">Oof!</hi> It takes all my strength! He--he
+                        <hi rend="bold">also</hi> has super-human strength! </cbml:balloon>
                 </cbml:panel>
                 <cbml:panel n="7">
-                    <cbml:balloon type="thought" who="spiderman">My web! He snapped it! Nobody has
+                    <cbml:balloon type="thought" who="spiderman">My <hi rend="bold">web</hi>! He <hi rend="bold">snapped</hi> it! Nobody has
                         ever done that before! </cbml:balloon>
-                    <cbml:balloon type="speech" who="doc_ock">And now, Spider-man, I grow bored with
+                    <cbml:balloon type="speech" who="doc_ock">And now, <hi rend="bold">Spider-man</hi>, I grow bored with
                         this game! My time is too valuable! </cbml:balloon>
                 </cbml:panel>
             </div>
             <div type="page" facs="../docs/images/asm_pg9.jpeg" n="9">
                 <cbml:panel n="1">
-                    <cbml:balloon type="speech" who="doc_ock">Now, watch me trap a spider in a web
-                        of my own--a web made of my new-found arms! Your strength is merely that of
-                        a spider, but mine is the energy of an atom, born of a nuclear
+                    <cbml:balloon type="speech" who="doc_ock">Now, watch <hi rend="bold">me</hi> trap a spider in a web
+                        of my <hi rend="bold">own--</hi>a web made of my new-found <hi rend="bold">arms</hi>! Your strength is merely that of
+                        a spider, but mine is the energy of an <hi rend="bold">atom</hi>, born of a nuclear
                         accident!</cbml:balloon>
-                    <cbml:balloon type="thought" who="spiderman">I’m helpless! Can’t fight all those
-                        arms at once! Don’t know what to do next! He’s just toying with
+                    <cbml:balloon type="thought" who="spiderman">I’m <hi rend="bold">helpless</hi>! Can’t fight all those
+                        arms at once! Don’t know what to do next! He’s just <hi rend="bold">toying</hi> with
                         me!</cbml:balloon>
                 </cbml:panel>
                 <cbml:panel n="2">
-                    <cbml:balloon type="speech" who="doc_ock">You dared to mock me before! Why
-                        aren’t you mocking me now? where are your brave words and taunts now,
-                        Spider-man?</cbml:balloon>
+                    <cbml:balloon type="speech" who="doc_ock">You dared to <hi rend="bold">mock</hi> me before! Why
+                        aren’t you mocking me <hi rend="bold">now</hi>? where are your brave words and taunts <hi rend="bold">now,
+                        Spider-man?</hi></cbml:balloon>
                 </cbml:panel>
                 <cbml:panel n="3">
                     <cbml:balloon type="speech" who="doc_ock">Or do you realize you’ve finally met
-                        your master? And now, you can leave the way you entered! You’re no threat to
-                        me!</cbml:balloon>
+                        your <hi rend="bold">master</hi>? And now, you can leave the way you entered! You’re no threat to
+                        <hi rend="bold">me</hi>!</cbml:balloon>
                 </cbml:panel>
                 <cbml:panel n="4">
-                    <cbml:caption>WEAK, GROGGY, JUST BARELY CONSCIOUS, SPIDER-MAN HAS HIS FALL
+                    <cbml:caption><hi rend="bold">W</hi>EAK, GROGGY, JUST BARELY CONSCIOUS, <hi rend="bold">SPIDER-MAN</hi> HAS HIS FALL
                         BROKEN BY A TREE, AS HE FINALLY SLUMPS TO THE GROUND... IN
-                        DEFEAT.</cbml:caption>
+                        DEFEAT!</cbml:caption>
                 </cbml:panel>
             </div>
             <div type="page" facs="../docs/images/asm_pg10.jpeg" n="10">
                 <cbml:panel n="1">
-                    <cbml:balloon type="thought" who="spiderman">He beat me! I--I never had a chance!</cbml:balloon>
-                </cbml:panel>
-                <cbml:panel n="2">
+                    <cbml:balloon type="thought" who="spiderman">He beat me! I--I never had a <hi rend="bold">chance</hi>!</cbml:balloon>
                     <cbml:balloon type="thought" who="spiderman">I didn’t even give him a good fight! He could’ve finished me off any time he wanted to!</cbml:balloon>
                 </cbml:panel>
+                <cbml:panel n="2">
+                    <cbml:balloon type="thought" who="spiderman">What do I do <hi rend="bold">now?</hi> I've never been beaten before! But <hi rend="bold">this</hi> time, my spider powers were not enough! Is this the end of <hi rend="bold">Spider-Man?</hi></cbml:balloon>
+                </cbml:panel>
                 <cbml:panel n="3">
-                    <cbml:caption>NOT LONG AFTERWARDS, AT THE HOSPITAL...</cbml:caption>
-                    <cbml:balloon type="thought" who="doc_ock">Even though I defeated Spider-Man, my prisoners escaped during the fight! I must leave, before the police arrive!</cbml:balloon>
+                    <cbml:caption><hi rend="bold">N</hi>OT LONG AFTERWARDS, AT THE HOSPITAL...</cbml:caption>
+                    <cbml:balloon type="thought" who="doc_ock">Even though I defeated <hi rend="bold">Spider-Man</hi>, my prisoners escaped during the fight! I must leave, before the police arrive!</cbml:balloon>
                 </cbml:panel>
                 <cbml:panel n="4">
-                    <cbml:balloon type="thought" who="doc_ock">With my arms, I can go anywhere... Do anything! Fences can’t stop me! No one can catch me!</cbml:balloon>
+                    <cbml:balloon type="thought" who="doc_ock">With my <hi rend="bold">arms</hi>, I can go anywhere... Do anything! Fences can’t stop me! No one can catch me!</cbml:balloon>
                 </cbml:panel>  
                 <cbml:panel n="5">
                     <cbml:balloon type="thought" who="doc_ock">Now that I have reached my objective, any unlocked window will furnish an entrance for me!</cbml:balloon>
@@ -443,25 +442,26 @@
             </div>
             <div type="page" facs="../docs/images/asm_pg11.jpeg" n="11">
                 <cbml:panel n="1">
-                    <cbml:balloon type="thought" who="doc_ock">This is what I’m after! The brain center of the entire atomic lab! Once I take it over, the greatest source of atomic power in the nation will be mine!</cbml:balloon>
+                    <cbml:balloon type="thought" who="doc_ock"><hi rend="bold">This</hi> is what I’m after! The brain center of the entire atomic lab! Once I take it over, the greatest source of atomic power in the nation will be <hi rend="bold">mine</hi>!</cbml:balloon>
                 </cbml:panel>
                 <cbml:panel n="2">
-                    <cbml:balloon type="thought" who="doc_ock">It’s an easy matter for Doctor Octopus to unlock a door!</cbml:balloon>
+                    <cbml:balloon type="thought" who="doc_ock">It’s an easy matter for <hi rend="bold">Doctor Octopus</hi> to unlock a door!</cbml:balloon>
                 </cbml:panel>
                 <cbml:panel n="3">
-                    <cbml:balloon type="speech" who="doc_ock">Out! All of you!… I’m taking over now!</cbml:balloon>
-                    <cbml:balloon type="speech" who="worker1">D-Did you see that? It was Doctor Octopus!</cbml:balloon>
-                    <cbml:balloon type="speech" who="worker2">But what’s he up to?</cbml:balloon>
+                    <cbml:balloon type="speech" who="doc_ock"><hi rend="bold">Out!</hi> All of you!… <hi rend="bold">I’m</hi> taking over now!</cbml:balloon>
+                    <cbml:balloon type="speech" who="worker1">D-Did you see <hi rend="bold">that?</hi> It was <hi rend="bold">Doctor Octopus!</hi></cbml:balloon>
+                    <cbml:balloon type="speech" who="worker2">But what’s he <hi rend="bold">up</hi> to?</cbml:balloon>
                 </cbml:panel>
                 <cbml:panel n="4">
-                    <cbml:balloon type="thought" who="doc_ock">Nothing can stop me now! Between my own super-strength and the atomic power which is mine to command here, I’m the strongest man alive! But first, I’ll give the world a demonstration of my strength! I’ll destroy part of this plant and rebuild it to suit myself!</cbml:balloon>
+                    <cbml:balloon type="thought" who="doc_ock"><hi rend="bold">Nothing</hi> can stop me now! Between my own super-strength and the atomic power which is mine to command here, I’m the <hi rend="bold">strongest man alive</hi>!</cbml:balloon>
+                    <cbml:balloon type="thought" who="doc_ock"> But first, I’ll give the world a <hi rend="bold">demonstration</hi> of my strength! I’ll <hi rend="bold">destroy</hi> part of this plant and rebuild it to suit myself!</cbml:balloon>
                 </cbml:panel>
                 <cbml:panel n="5">
                     <cbml:caption>And so…</cbml:caption>
-                    <cbml:balloon type="speech" who="worker">Something’s happened to the lead shielding! It’s been lowered! The radiation is starting to escape!</cbml:balloon>
+                    <cbml:balloon type="speech" who="worker">Something’s happened to the lead shielding! It’s been lowered! The radiation is starting to <hi rend="bold">escape</hi>!</cbml:balloon>
                 </cbml:panel>
                 <cbml:panel n="6">
-                    <cbml:balloon type="speech" who="worker">Look! The giant machines are running out of control--as though some madman is guiding them.</cbml:balloon>
+                    <cbml:balloon type="speech" who="worker"><hi rend="bold">Look!</hi> The giant machines are running out of control--as though some <hi rend="bold">madman</hi> is guiding them!</cbml:balloon>
                 </cbml:panel>
                 <cbml:panel n="7">
                     <cbml:balloon type="speech" who="worker">There’s too much pressure in the main valves! The pipes are overheating… exploding! It isn’t safe to stay here!</cbml:balloon>
@@ -469,33 +469,31 @@
             </div>
             <div type="page" facs="../docs/images/asm_pg12.jpeg" n="12">
                 <cbml:panel n="1">
-                    <cbml:caption>But, within minutes, the source of the trouble is made known, and...</cbml:caption>
-                    <cbml:balloon type="speech" who="worker1">We’ve got to reach Doctor Octopus somehow!</cbml:balloon>
-                    <cbml:balloon type="speech" who="worker2">We can’t! He’s set up electronic barriers all over the place!</cbml:balloon>
+                    <cbml:caption><hi rend="bold">B</hi>ut, within minutes, the source of the trouble is made known, and...</cbml:caption>
+                    <cbml:balloon type="speech" who="worker1">We’ve <hi rend="bold">got</hi> to reach <hi rend="bold">Doctor Octopus</hi> somehow!</cbml:balloon>
+                    <cbml:balloon type="speech" who="worker2">We <hi rend="bold">can’t</hi>! He’s set up electronic barriers all over the place!</cbml:balloon>
                 </cbml:panel>
                 <cbml:panel n="2">
-                    <cbml:caption>And, before long, the entire plant is evacuated, except for...</cbml:caption>
-                    <cbml:balloon type="speech" who="doc_ock">They realize I cannot be stopped and have given up trying! I’ve won! The plant is mine! I am now in complete control!</cbml:balloon>
+                    <cbml:caption><hi rend="bold">A</hi>nd, before long, the entire plant is evacuated, except for...</cbml:caption>
+                    <cbml:balloon type="speech" who="doc_ock">They realize I cannot be stopped and have given up trying! I’ve <hi rend="bold">won!!</hi> The plant is <hi rend="bold">mine!</hi> I am now in complete control!</cbml:balloon>
                 </cbml:panel>
                 <cbml:panel n="3">
-                    <cbml:caption>The foremost brains of the nation’s armed forces and security agencies confer feverishly, but to no avail...</cbml:caption>
+                    <cbml:caption><hi rend="bold">T</hi>he foremost brains of the nation’s armed forces and security agencies confer feverishly, but to no avail...</cbml:caption>
                     <cbml:balloon type="speech" who="milOff1">We’ve never been up against anything like this before! A brilliant scientist, with super-human powers, on a mad rampage!</cbml:balloon>
                     <cbml:balloon type="speech" who="milOff2">If we can’t stop him, then we must see that innocent people are not injured!</cbml:balloon>
                 </cbml:panel>
-                
-                
                <cbml:panel n="4">
-                   <cbml:caption>And so, the order goes out—no one is allowed in or out of the atomic plant...</cbml:caption>
-                   <cbml:balloon type="thought" who="guard">Can’t figure out why they post sentries here! If Dr. Octopus tries to get out, how can we stop him?</cbml:balloon>
+                   <cbml:caption><hi rend="bold">A</hi>nd so, the order goes out—no one is allowed in or out of the atomic plant...</cbml:caption>
+                   <cbml:balloon type="thought" who="guard">Can’t figure out <hi rend="bold">why</hi> they post sentries here! If <hi rend="bold">Dr. Octopus</hi> tries to get out, how can we <hi rend="bold">stop</hi> him?</cbml:balloon>
                 </cbml:panel>
                 <cbml:panel n="5">
-                    <cbml:caption>Meanwhile, what of teen-age Peter Parker, alias Spider-Man?</cbml:caption>
-                    <cbml:balloon type="thought" who="may">Poor Peter’s been moping in his room for hours! I wish he’d tell me what’s wrong!</cbml:balloon>
-                    <cbml:balloon type="thought" who="peter parker">I’m a failure! Spider-Man is a joke... a nothing. There's the phone!</cbml:balloon>
-                    <cbml:caption>BR-I-I-NG!</cbml:caption>
+                    <cbml:caption><hi rend="bold">M</hi>eanwhile, what of teen-age Peter Parker, alias <hi rend="bold">Spider-Man?</hi></cbml:caption>
+                    <cbml:balloon type="thought" who="may">Poor Peter’s been moping in his room for hours! I <hi rend="bold">wish</hi> he’d tell me what’s wrong!</cbml:balloon>
+                    <cbml:balloon type="thought" who="peter parker">I’m a failure! <hi rend="bold">Spider-Man</hi> is a joke... a nothing. There's the phone!</cbml:balloon>
+                    <cbml:caption><hi rend="bold">BR-I-I-NG!</hi></cbml:caption>
                 </cbml:panel>
                 <cbml:panel n="6">
-                    <cbml:balloon type="speech" who="peter parker">Mr. Jameson? No, I won’t be able to get the pictures of Doctor Octopus! No, I probably won’t be able to get any more! Sorry... yeah... good bye.</cbml:balloon>
+                    <cbml:balloon type="speech" who="peter parker">Mr. Jameson? No, I won’t be able to get the pictures of Doctor Octopus! No, I probably <hi rend="bold">won’t</hi> be able to get any more! Sorry... yeah... good bye.</cbml:balloon>
                 </cbml:panel>
                 <cbml:panel n="7">
                     <cbml:balloon type="speech" who="may">Peter, dear, what’s wrong? I can’t bear to see you so unhappy! Is there anything I can do to help?</cbml:balloon>
@@ -504,80 +502,87 @@
             </div>
             <div type="page" facs="../docs/images/asm_pg13.jpeg" n="13">
                 <cbml:panel n="1">
-                    <cbml:balloon type="speech" who="kid1">Hello, Petey!... Say, what's wrong with him? He didn't answer!</cbml:balloon>
+                    <cbml:balloon type="speech" who="kid1">Hello, Petey!... Say, what's wrong with him? He didn't <hi rend="bold">answer!</hi></cbml:balloon>
                     <cbml:balloon type="thought" who="peter parker">And there's no one I can talk to... No one who'd understand!</cbml:balloon>
                     <cbml:balloon type="speech" who="kid2">Him? He's down in the dumps! Looks like he lost his favorite test tube!</cbml:balloon>
                 </cbml:panel>
                 <cbml:panel n="2">
-                    <cbml:balloon type="speech" who="kid1">Pete, did you hear the big news? The governer's asked the Fantastic Four to try to capture Doctor Octopus!</cbml:balloon>
-                    <cbml:balloon type="speech" who="kid3">They're busy with another case, but they sent the Human Torch to see what he can do! He's speaking at our assembly today!</cbml:balloon>
+                    <cbml:balloon type="speech" who="kid1">Pete, did you hear the big news? The governer's asked the <hi rend="bold">Fantastic Four</hi> to try to capture Doctor Octopus!</cbml:balloon>
+                    <cbml:balloon type="speech" who="kid3">They're busy with another case, but they sent the <hi rend="bold">Human Torch</hi> to see what he can do! He's speaking at our assembly today!</cbml:balloon>
                     <cbml:balloon type="thought" who="peter parker">Big deal!</cbml:balloon>
                 </cbml:panel>
                 <cbml:panel n="3">
                     <cbml:caption>Later, at the school assembly...</cbml:caption>
                     <cbml:balloon type="speech" who="human torch"> I was asked here to tackle Doctor Octopus. But I've used my flame so much recently, I have to wait a few days to let it get strong again! While I'm waiting, your principal asked me to address you...</cbml:balloon>
-                    <cbml:balloon type="thought" who="peter parker">If only I had his power... his confidence!... But that's wasy when you've never been beaten!</cbml:balloon>
+                    <cbml:balloon type="thought" who="peter parker">If only I had <hi rend="bold">his</hi> power... <hi rend="bold">his</hi> confidence!... But that's wasy when you've never been beaten!</cbml:balloon>
                 </cbml:panel>
                 <cbml:panel n="4">
                     <cbml:balloon type="speech" who="human torch">Now for a little demonstration! I can't apply my total flame, but here are some fiery figures for you!</cbml:balloon>
-                    <cbml:balloon type="speech" who="human torch">This is what usually happens when The Thing helps me with my homework! I get results like this!</cbml:balloon>
+                    <cbml:balloon type="speech" who="human torch">This is what usually happens when The <hi rend="bold">Thing</hi> helps me with my homework! I get results like <hi rend="bold">this!</hi></cbml:balloon>
                 </cbml:panel>
                 <cbml:panel n="5">
-                    <cbml:caption>Then, after a few more colorful demonstrations...</cbml:caption>
-                    <cbml:balloon type="speech" who="human torch">Now, for a parting thought! Stick to your school work and do your best in your studies! Don't be discouraged if it sometimes seems tough! The important thing is never give up! Remember that-- never give up!</cbml:balloon>
-                    <cbml:balloon type="thought" who="peter parker">It's almost as though he's talking to me!</cbml:balloon>
-                </cbml:panel>
+                    <cbml:caption><hi rend="bold">T</hi>hen, after a few more colorful demonstrations...</cbml:caption>
+                    <cbml:balloon type="speech" who="human torch">Now, for a parting thought! Stick to your school work and do your best in your studies! Don't be discouraged if it sometimes seems tough! The important thing is never give up! Remember that-- <hi rend="bold">never give up!</hi></cbml:balloon>
                 <cbml:panel n="6">
-                    <cbml:balloon type="" who=""></cbml:balloon>
+                    <cbml:balloon type="speech" who="human torch">Ability alone isn't enough! It's <hi rend="bold">one</hi> lesson I've learned from my partnership with the <hi rend="bold">Fantastic Four!</hi></cbml:balloon>
+                    <cbml:balloon type="thought" who="peter parker">It's almost as though he's talking to <hi rend="bold">me!</hi></cbml:balloon>
+                </cbml:panel>
                 </cbml:panel>
                 <cbml:panel n="7">
-                    <cbml:balloon type="" who=""></cbml:balloon>
+                    <cbml:balloon type="speech" who="human torch">Even the <hi rend="bold">Fantastic Four</hi> have had defeats-- but we always come back! Our motto is never say die!</cbml:balloon>
+                    <cbml:balloon type="thought" who="peter parker">He's <hi rend="bold">right!</hi> By golly, he's <hi rend="bold">right!</hi></cbml:balloon>
                 </cbml:panel>
                 <cbml:panel n="8">
-                    <cbml:balloon type="" who=""></cbml:balloon>
+                    <cbml:caption><hi rend="bold">L</hi>ATER, AT THE CONCLUSION OF <hi rend="bold">THE TORCH’S</hi> LECTURE...</cbml:caption>
+                    <cbml:balloon type="speech" who="peter parker">I want to thank you for that speech! I—I’ll never <hi rend="bold">forget</hi> what you said today! It meant a <hi rend="bold">lot</hi> to me!</cbml:balloon>
+                    <cbml:balloon type="speech" who="human torch">Huh? Oh, Sure-- sure! Glad you enjoyed it, fella!</cbml:balloon>
                 </cbml:panel>
             </div>
             <div type="page" facs="../docs/images/asm_pg14.jpeg" n="14">
                 <cbml:panel n="1">
-                    <cbml:balloon type="" who=""></cbml:balloon>
+                    <cbml:caption><hi rend="bold">L</hi>IKE A MAN POSSESSED PETER PARKER RACES HOME TO THE PRIVACY OF HIS ROOM, AND...</cbml:caption>
+                    <cbml:balloon type="thought" who="peter parker">I guess if the <hi rend="bold">Fantastic Four</hi> could be defeated, and then go back for more, <hi rend="bold">Spider-Man</hi> can <hi rend="bold">too!</hi></cbml:balloon>
                 </cbml:panel>
                 <cbml:panel n="2">
-                    <cbml:balloon type="" who=""></cbml:balloon>
+                    <cbml:balloon type="thought" who="spiderman">Okay, <hi rend="bold">Doctor Octopus!</hi> This is <hi rend="bold">it!!</hi> Now that I know how strong you are, you won't have the advantage of <hi rend="bold">surprise</hi> on your side again!</cbml:balloon>
                 </cbml:panel>
                 <cbml:panel n="3">
-                    <cbml:balloon type="" who=""></cbml:balloon>
+                    <cbml:balloon type="thought" who="spiderman">This is <hi rend="bold">one</hi> easy way to get past those sentries below!</cbml:balloon>
                 </cbml:panel>
                 <cbml:panel n="4">
-                    <cbml:balloon type="" who=""></cbml:balloon>
+                    <cbml:balloon type="speech" who="guard1"><hi rend="bold">Hey!</hi> Did you just see someone flying above us?</cbml:balloon>
+                    <cbml:balloon type="speech" who="guard2">Someone <hi rend="bold">flying</hi> above us? Are you some kinda <hi rend="bold">nut</hi> or somethin'?</cbml:balloon>
                 </cbml:panel>
                 <cbml:panel n="5">
-                    <cbml:balloon type="" who=""></cbml:balloon>
+                    <cbml:balloon type="thought" who="spiderman">So far, so good! I landed safely on the roof without being stopped!</cbml:balloon>
                 </cbml:panel>
                 <cbml:panel n="6">
-                    <cbml:balloon type="" who=""></cbml:balloon>
+                    <cbml:balloon type="thought" who="spiderman">Now, to get as close as I can to <hi rend="bold">Doctor Octopus</hi> before he discovers me!</cbml:balloon>
                 </cbml:panel>
                 <cbml:panel n="7">
-                    <cbml:balloon type="" who=""></cbml:balloon>
+                    <cbml:caption><hi rend="bold">B</hi>UT THE STRANGE SCIENTIST HAS EYES EVERYWHERE, AND...</cbml:caption>
+                    <cbml:balloon type="thought" who="doc_ock">It's <hi rend="bold">Spider-Man</hi> again! Well, <hi rend="bold">this</hi> time he won't be so lucky! <hi rend="bold">This</hi> time I'll finish him for good!</cbml:balloon>
                 </cbml:panel>
             </div>
             <div type="page" facs="../docs/images/asm_pg15.jpeg" n="15">
                 <cbml:panel n="1">
-                    <cbml:balloon type="" who=""></cbml:balloon>
+                    <cbml:balloon type="speech" who="doc_ock">From now on, I allow <hi rend="bold">no one</hi> to interfere with my plans! I will permit <hi rend="bold">no one</hi> to defy me!</cbml:balloon>
                 </cbml:panel>
                 <cbml:panel n="2">
-                    <cbml:balloon type="" who=""></cbml:balloon>
+                    <cbml:caption><hi rend="bold">A</hi>ND, AT THAT MOMENT...</cbml:caption>
+                    <cbml:balloon type="thought" who="spiderman">My spider senses warn me of danger behind me!</cbml:balloon>
                 </cbml:panel>
                 <cbml:panel n="3">
-                    <cbml:balloon type="" who=""></cbml:balloon>
+                    <cbml:balloon type="speech" who="spiderman">Nice try, <hi rend="bold">Doctor Octopus</hi>, but I'm <hi rend="bold">ready</hi> for you this time!</cbml:balloon>
                 </cbml:panel>
                 <cbml:panel n="4">
-                    <cbml:balloon type="" who=""></cbml:balloon>
+                    <cbml:balloon type="speech" who="spiderman">With my spider senses fully alert, and my spider muscles in top condition, he can't possibly hurl those electronic bolts fast enough to hurt me!</cbml:balloon>
                 </cbml:panel>
                 <cbml:panel n="5">
-                    <cbml:balloon type="" who=""></cbml:balloon>
+                    <cbml:balloon type="thought" who="spiderman">Ho knows my every move! He must be watching me on some sort of TV hookup! Well, I'll just go somewhere out of range... as only <hi rend="bold">I</hi> can!</cbml:balloon>
                 </cbml:panel>
                 <cbml:panel n="6">
-                    <cbml:balloon type="" who=""></cbml:balloon>
+                    <cbml:balloon type="thought" who="doc_ock">He's found a way to evade my electronic scanners! Hmm... he's cleverer than I thought!</cbml:balloon>
                 </cbml:panel>
             </div>
 
