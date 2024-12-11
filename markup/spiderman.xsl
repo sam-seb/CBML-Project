@@ -13,9 +13,15 @@
                 <!--<link rel="stylesheet" type="text/css" href="asm.css" />-->
             </head>
             <body>
-       <xsl:apply-templates>
-           
-       </xsl:apply-templates>
+                <section id="contents"> 
+                    <table>
+                        <tr>
+                            <th>Page Number</th>
+                            <th>Character Appearances</th>
+                        </tr>
+                        <xsl:apply-templates select="descendant::chapter" mode="toc"/>
+                    </table>
+                </section>
             </body>
         </html>
     </xsl:template>
