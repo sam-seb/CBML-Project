@@ -7,7 +7,7 @@
             <titleStmt>
                 <title>Amazing Spider Man</title>
                 <author/>
-                <editor>Temitope Sakotek</editor>
+                <editor>Temitope Sakote</editor>
                 <!-- Which of you is editing this file? Record yourself as an editor-->
             </titleStmt>
 
@@ -19,8 +19,8 @@
                 </availability>
             </publicationStmt>
             <sourceDesc>
-                <p>WWHAT PORTION OF THE COMIC BOOK IS THIS? IDENTIFY VOLUME, ISSUE, PAGES, OTHER PUBLISHING METADATA</p>
-                <p>Retrieved rom this online resource <ptr
+                <p>WHAT PORTION OF THE COMIC BOOK IS THIS? IDENTIFY VOLUME, ISSUE, PAGES, OTHER PUBLISHING METADATA</p>
+                <p>Retrieved from this online resource <ptr
                         target="SET the URL FOR YOUR COMIC BOOK HERE"/></p>
             </sourceDesc>
         </fileDesc>
