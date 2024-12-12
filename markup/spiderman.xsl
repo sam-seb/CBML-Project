@@ -76,4 +76,19 @@
    <xsl:template match="cbml:panel">
         <div class="panel"><xsl:apply-templates/></div>
     </xsl:template>
+    
+    
+    <xsl:template match="cbml:balloon">
+        <p class="panel"><xsl:apply-templates/></p>
+    </xsl:template>
+    
+    
+    <xsl:template match="cbml:caption">
+        <p type="caption"><xsl:apply-templates/></p>
+    </xsl:template>
+    
+    
+    <xsl:template match="hi">
+        <span class="bold"><xsl:apply-templates/></span>
+    </xsl:template>
 </xsl:stylesheet>
