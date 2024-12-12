@@ -1,0 +1,59 @@
+@font-face {
+    font-family: 'WildWords';
+    src: url('font/wild-words-roman.ttf') format('truetype');
+}
+
+body {
+    background-image: url('images/web_bg.jpg'); /* Add the web background */
+    background-size: cover; /* Ensure the background image covers the screen */
+    background-position: center; /* Center the background image */
+    background-attachment: fixed; /* Keep the background fixed during scrolling */
+    background-repeat: no-repeat; /* Prevent the background from repeating */
+    font-family: 'WildWords', sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    color: white; /* Use white text for better readability */
+}
+
+header {
+    background-color: rgba(0, 0, 0, 0.8); /* Semi-transparent black for readability */
+    padding: 0;
+    margin: 0;
+}
+
+header .header-image {
+    width: 100%; /* Make the image fill the entire width of the screen */
+    height: auto; /* Maintain the image's aspect ratio */
+    display: block; /* Remove any inline spacing */
+}
+
+nav {
+    background-color: #b22222; /* Spider-Man red */
+    padding: 10px 0;
+    border-bottom: 3px solid #7c0a0a;
+}
+
+ul.navbar {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+ul.navbar li a {
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    padding: 10px 20px;
+    border: 2px solid transparent;
+    transition: 0.3s;
+}
+
+ul.navbar li a:hover {
+    background-color: #7c0a0a;
+    border: 2px solid white;
+    border-radius: 5px;
+    color: white;
+}

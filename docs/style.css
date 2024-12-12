@@ -1,22 +1,129 @@
-body { background-color: #bdd6ff;
-    
+@font-face {
+    font-family: 'WildWords';
+    src: url('font/wild-words-roman.ttf') format('truetype');
 }
 
-p { font-size: 25px;
-
-}
-
-div {
-    margin: 20px 250px 20px 250px;
-    padding: 10px;
-    border: 3px solid;
+body {
+    background-image: url('images/web_bg.jpg'); /* Add the spiderweb background image */
+    background-size: cover; /* Ensure the background image fits the entire screen */
+    background-position: center; /* Center the background image */
+    background-attachment: fixed; /* Keep the background image fixed during scrolling */
+    background-repeat: no-repeat; /* Prevent the background from repeating */
+    font-family: 'WildWords', sans-serif;
     text-align: center;
+    margin: 0;
+    padding: 0;
+    color: white; /* White text for contrast */
 }
 
-h2 { font-size: 30px;
-   }
+header {
+    background-color: rgba(0, 0, 0, 0.8); /* Semi-transparent black for better readability */
+    padding: 0;
+    margin: 0;
+}
 
-b {
-    color: #ff6347;
-    font-weight: bold;
+header .header-image {
+    width: 100%; /* Make the image fill the entire width of the screen */
+    height: auto; /* Maintain the image's aspect ratio */
+    display: block; /* Remove any inline spacing */
+}
+
+/* Navigation Bar Styling */
+nav {
+    background-color: #b22222; /* Subdued Spider-Man red */
+    padding: 10px 0;
+    border-bottom: 3px solid #7c0a0a; /* Darker red for contrast */
+}
+
+ul.navbar {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center; /* Center the navigation links */
+    gap: 20px; /* Space between links */
+}
+
+ul.navbar li {
+    display: inline;
+}
+
+ul.navbar li a {
+    text-decoration: none;
+    color: white; /* White text for links */
+    font-size: 18px;
+    padding: 10px 20px;
+    border: 2px solid transparent;
+    transition: 0.3s;
+}
+
+ul.navbar li a:hover {
+    background-color: #7c0a0a; /* Darker red hover effect */
+    border: 2px solid white;
+    border-radius: 5px; /* Smooth hover effect */
+    color: #fff;
+}
+
+/* Welcome Section Styling */
+.welcome-section {
+    margin: 50px auto;
+    padding: 30px;
+    background-color: rgba(0, 0, 0, 0.8); /* Semi-transparent black for better readability */
+    border-radius: 15px;
+    max-width: 600px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2); /* Subtle shadow */
+    color: white;
+    background-image: url('images/spiderweb.png'); /* Spiderweb background */
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+
+h2 {
+    text-decoration: underline;
+    font-size: 30px;
+    margin-bottom: 20px;
+    color: #ffffff; /* White text for headings */
+}
+
+p, ul {
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 20px 0;
+}
+
+ul li {
+    margin: 10px 0;
+}
+
+ul li a {
+    color: #ffcccb; /* Light pink links to contrast red */
+    text-decoration: underline;
+}
+
+ul li a:hover {
+    color: #ffffff; /* Change link color to white on hover */
+}
+
+/* Footer Styling */
+footer {
+    margin-top: 30px;
+    padding: 10px;
+    background-color: rgba(0, 0, 0, 0.8); /* Semi-transparent black for better readability */
+    color: white;
+    border-top: 3px solid #7c0a0a;
+}
+
+footer a {
+    color: #fff;
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
 }
