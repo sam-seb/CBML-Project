@@ -79,12 +79,12 @@
     
     
     <xsl:template match="cbml:balloon">
-        <p class="panel"><xsl:apply-templates/></p>
+        <p class="panel"><xsl:value-of select="@who"/>: <span class="{./@type}"><xsl:apply-templates/></span></p>
     </xsl:template>
     
     
     <xsl:template match="cbml:caption">
-        <p type="caption"><xsl:apply-templates/></p>
+        <p class="caption"><xsl:apply-templates/></p>
     </xsl:template>
     
     
