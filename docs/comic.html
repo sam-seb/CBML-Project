@@ -1,28 +1,1375 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
-    <head>
-        <title>comic</title>
-        <link rel="icon" type="image/png" href="images/favicon.ico"/>
-        <link rel="stylesheet" type="text/css" href="comic.css" />
-    </head>
-    <body>
-            <header>
-                <img src="images/spiderman_header.jpeg" alt="The Amazing Spider-Man Header #2" class="header-image" />
-                <nav>
-                    <ul class="navbar">
-                        <li><a href="index.html">Home</a></li>
-                        <li><a href="about.html">About</a></li>
-                        <li><a href="comic.html">Comic</a></li>
-                        <li><a href="code.html">Code</a></li>
-                    </ul>
-                </nav>
-            </header>
-        
-        <h2>this page is under construction</h2>
-        <p>comic pages and transcripts will go here!</p>
-        <img src="images/asm_pg2.jpeg" alt="amazing spiderman vol 3 page 1" class="center"/>
-        <p> <a href="https://archive.org/details/871-amazing-spiderman/3%20amazing%20spider%20man/page/n1/mode/2up"> Click here
-        </a> to see the website we got the comic from.</p>
-    </body>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:cbml="http://www.cbml.org/ns/1.0">
+   <head>
+      <title>Comic</title>
+      <link rel="icon" type="image/png" href="images/favicon.ico"/>
+      <link rel="stylesheet" type="text/css" href="comic.css" />
+      </head>
+   <body>
+      <header>
+         <img src="images/spiderman_header.jpeg" alt="The Amazing Spider-Man Header #2" class="header-image" />
+         <nav>
+            <ul class="navbar">
+               <li><a href="index.html">Home</a></li>
+               <li><a href="about.html">About</a></li>
+               <li><a href="comic.html">Comic</a></li>
+               <li><a href="code.html">Code</a></li>
+            </ul>
+         </nav>
+      </header>
+      <section id="intro"/>
+      <section id="contents">
+         <table>
+            <tr>
+               <th>Page Number</th>
+               <th>Character Appearances</th>
+            </tr>
+            <tr>
+               <td><a href="#p-2">Page 2</a></td>
+               <td>Thief 1, Thief 2, Spiderman, Thief 3, Officer 1</td>
+            </tr>
+            <tr>
+               <td><a href="#p-3">Page 3</a></td>
+               <td>Scientist 1, Scientist 2, Scientist 3, Scientist , Doc Ock, Assistant 1, Assistant
+                  2</td>
+            </tr>
+            <tr>
+               <td><a href="#p-4">Page 4</a></td>
+               <td>Assistant 1, Assistant 2, Doctor , Doc Ock</td>
+            </tr>
+            <tr>
+               <td><a href="#p-5">Page 5</a></td>
+               <td>Doc Ock, Doctor , JJ, Assistant, Peter Parker</td>
+            </tr>
+            <tr>
+               <td><a href="#p-6">Page 6</a></td>
+               <td>Spiderman, Doc Ock</td>
+            </tr>
+            <tr>
+               <td><a href="#p-7">Page 7</a></td>
+               <td>Doctor , Doc Ock, Spiderman</td>
+            </tr>
+            <tr>
+               <td><a href="#p-8">Page 8</a></td>
+               <td>Spiderman, Doc Ock</td>
+            </tr>
+            <tr>
+               <td><a href="#p-9">Page 9</a></td>
+               <td>Doc Ock, Spiderman</td>
+            </tr>
+            <tr>
+               <td><a href="#p-10">Page 10</a></td>
+               <td>Spiderman, Doc Ock</td>
+            </tr>
+            <tr>
+               <td><a href="#p-11">Page 11</a></td>
+               <td>Doc Ock, Worker 1, Worker 2, Worker </td>
+            </tr>
+            <tr>
+               <td><a href="#p-12">Page 12</a></td>
+               <td>Worker 1, Worker 2, Doc Ock, Officer  1, Officer  2, Guard , may, Peter Parker</td>
+            </tr>
+            <tr>
+               <td><a href="#p-13">Page 13</a></td>
+               <td>Kid 1, Peter Parker, Kid 2, Kid 3, Human Torch</td>
+            </tr>
+            <tr>
+               <td><a href="#p-14">Page 14</a></td>
+               <td>Peter Parker, Spiderman, Guard 1, Guard 2, Doc Ock</td>
+            </tr>
+            <tr>
+               <td><a href="#p-15">Page 15</a></td>
+               <td>Doc Ock, Spiderman</td>
+            </tr>
+            <tr>
+               <td><a href="#p-16">Page 16</a></td>
+               <td>Doc Ock, Spiderman</td>
+            </tr>
+            <tr>
+               <td><a href="#p-17">Page 17</a></td>
+               <td>Spiderman, Doc Ock</td>
+            </tr>
+            <tr>
+               <td><a href="#p-18">Page 18</a></td>
+               <td>Doc Ock, Spiderman</td>
+            </tr>
+            <tr>
+               <td><a href="#p-19">Page 19</a></td>
+               <td>Doc Ock, Spiderman, Guard  1, Guard  2</td>
+            </tr>
+            <tr>
+               <td><a href="#p-20">Page 20</a></td>
+               <td>Soldier 1, Soldier 2, Doc Ock, Spiderman</td>
+            </tr>
+            <tr>
+               <td><a href="#p-21">Page 21</a></td>
+               <td>Doctor , Human Torch, Spiderman, girl in crowd, Peter Parker</td>
+            </tr>
+         </table>
+      </section>
+      <section id="rv">
+         <div class="page" id="p-2">
+            <section class="image">
+               <figure><img src="images/asm_pg2.jpeg" alt="Page 2"/><figcaption>Page 2</figcaption>
+               </figure>
+            </section>
+            <section class="content">
+               
+               <div class="panel">
+                  
+                  <p class="caption">
+                     <span class="bold">A</span> STORY HAS TO START <span class="bold">SOMEWHERE</span>, SO
+                     LET'S BEGIN WITH A LONELY WAREHOUSE, IN THE DEAD OF NIGHT, WHERE WE FIND A
+                     ROBBERY TAKING PLACE..</p>
+                  
+                  <p class="panel">Thief 1: <span class="speech">Hold it, you guys! I think I heard
+                        somethin'!</span></p>
+                  
+                  <p class="panel">Thief 2: <span class="speech">Relax, Charlie! It was probably just a
+                        mouse!</span></p>
+                  </div>
+               
+               <div class="panel">
+                  
+                  <p class="caption">
+                     <span class="bold">S</span>UDDENLY, THE MOST AWESOME IMAGE IN CRIME-FIGHTING
+                     APPEARS ON THE WALL DIRECTLY ABOVE THE STARTLED THIEVES...</p>
+                  
+                  <p class="panel">Spiderman: <span class="speech">Mouse? You've never seen a mouse
+                        like <span class="bold">this</span> before!</span></p>
+                  
+                  <p class="panel">Thief 2: <span class="speech"><span class="bold">L-Look!</span> It..
+                        It's..</span></p>
+                  </div>
+               
+               <div class="panel">
+                  
+                  <p class="panel">Spiderman: <span class="speech">Don't be shy, fella! You can say my
+                        name! It's <span class="bold">Spider-Man</span>!</span></p>
+                  
+                  <p class="panel">Thief 3: <span class="speech"><span class="bold">Get ’im!</span> There are
+                        <span class="bold">three</span> of us! He can't take us <span class="bold">all</span>!</span></p>
+                  </div>
+               
+               <div class="panel">
+                  
+                  <p class="panel">Thief 1: <span class="speech"><span class="bold">UGH!</span></span></p>
+                  
+                  <p class="panel">Spiderman: <span class="speech">BROTHER, YOU'RE LIVING IN A FOOL'S
+                        PARADISE!</span></p>
+                  
+                  <p class="panel">Thief 2: <span class="speech"><span class="bold">OOF!</span></span></p>
+                  
+                  <p class="panel">Thief 3: <span class="speech"><span class="bold">OW!</span></span></p>
+                  </div>
+               
+               <div class="panel">
+                  
+                  <p class="caption"><span class="bold">M</span>INUTES LATER...</p>
+                  
+                  <p class="panel">Thief 2: <span class="speech">Some big criminal mastermind <span class="bold">you</span> are!</span></p>
+                  
+                  <p class="panel">Thief 1: <span class="speech">Aw, shaddup! Whoever expected<span class="bold">Spider-Man</span> to but in!</span></p>
+                  
+                  <p class="panel">Officer 1: <span class="speech"><span class="bold">Look,</span> Joe! <span class="bold">Spider-Man's</span> been here! And <span class="bold">how!</span>
+                        are!</span></p>
+                  </div>
+               
+               <div class="panel">
+                  
+                  <p class="caption"><span class="bold">A</span>ND NOT FAR AWAY...</p>
+                  
+                  <p class="panel">Spiderman: <span class="thought">It’s almost <span class="bold">too</span> easy! I've run out of enemies who can give me any real
+                        opposition! I’m too powerful for <span class="bold">any</span> foe! I almost <span class="bold">wish</span> for an opponent who’d give me a run for my
+                        money!</span></p>
+                  </div>
+               
+               </section>
+         </div>
+         <div class="page" id="p-3">
+            <section class="image">
+               <figure><img src="images/asm_pg3.jpeg" alt="Page 3"/><figcaption>Page 3</figcaption>
+               </figure>
+            </section>
+            <section class="content">
+               
+               
+               <div class="panel">
+                  
+                  <p class="caption"><span class="bold">A</span>ND LITTLE DOES <span class="bold">SPIDER-MAN</span> SUSPECT THAT HIS FRIVOLOUS WISH IS ABOUT TO COME TRUE!
+                     FOR, AT THAT MOMENT, ON THE OUTSKIRTS OF TOWN...</p>
+                  
+                  <p class="panel">Scientist 1: <span class="speech">Here comes Doctor
+                        Octopus!</span></p>
+                  
+                  <p class="panel">Scientist 2: <span class="speech">Doctor <span class="bold">Octopus?</span> Why do they call him that?</span></p>
+                  
+                  <p class="panel">Scientist 3: <span class="speech">Watch! You'll see in a
+                        minute!</span></p>
+                  </div>
+               
+               
+               <div class="panel">
+                  
+                  <p class="panel">Scientist 1: <span class="speech">See? It's that especially-designed
+                        contraption he wears, which enables him to perform his experiments behind
+                        the lead walls which shiled him from radiation!!</span></p>
+                  </div>
+               
+               
+               <div class="panel">
+                  
+                  <p class="panel">Scientist : <span class="speech">He created that get-up himself, and
+                        he's the only scientist permitted to wear it!</span></p>
+                  
+                  <p class="panel">Scientist 2: <span class="speech">He's the most brillian
+                        atomic-researcher in our country today!</span></p>
+                  </div>
+               
+               
+               <div class="panel">
+                  
+                  <p class="caption">
+                     <span class="bold">Y</span>ES, SUCH A MAN IS OTTO OCTAVIOUS, BETTER KNOWN TO HIS
+                     CO-WORKERS AS <span class="bold">DOCTOR OCTOPUS!</span> LET US WATCH AS HE
+                     CONDUCTS A NUCLEAR EXPERIMENT...</p>
+                  </div>
+               
+               
+               <div class="panel">
+                  
+                  <p class="panel">Doc Ock: <span class="thought">My artificial extra arms permit me to
+                        work safely with volatile chemicals which are far too dangerous to touch
+                        without protection!</span></p>
+                  
+                  <p class="panel">Doc Ock: <span class="thought">Though others fear radiation, I alone
+                        am able to make it my <span class="bold">servant!</span></span></p>
+                  </div>
+               
+               <div class="panel">
+                  
+                  <p class="caption"><span class="bold">B</span>UT NOTHING IS EVER PERFECT, NOT EVEN THE
+                     PROJECTS OF DOCTOR OCTOPUS! AND, AS THE UNSUSPECTING ATOMIC GENIUS CONDUCTS
+                     HIS EXPERIMENT…</p>
+                  
+                  <p class="panel">Assistant 1: <span class="speech"><span class="bold">Look!</span> The
+                        radiation-meter has gone wacky! Something is wrong! There's gonna be a <span class="bold">blow-up!</span></span></p>
+                  
+                  <p class="panel">Assistant 2: <span class="speech"><span class="bold">SOUND THE
+                           ALARM!</span></span></p>
+                  </div>
+               </section>
+         </div>
+         <div class="page" id="p-4">
+            <section class="image">
+               <figure><img src="images/asm_pg4.jpeg" alt="Page 4"/><figcaption>Page 4</figcaption>
+               </figure>
+            </section>
+            <section class="content">
+               
+               <div class="panel">
+                  
+                  <p class="caption"><span class="bold">B</span>UT THE WARNING, ALAS, IS GIVEN ТОО LATE! AND BEFORE THE ALARM CAN
+                     BE SOUNDED…</p>
+                  </div>
+               
+               <div class="panel">
+                  
+                  <p class="caption"><span class="bold">T</span>HEN, AFTER THE FLAMES AND SMOKE HAVE PARTIALLY
+                     CLEARED…</p>
+                  
+                  <p class="panel">Assistant 1: <span class="speech">Doctor Octopus is still breathing!
+                        I hope we've reached him in time!</span></p>
+                  
+                  <p class="panel">Assistant 2: <span class="speech">Even though he's still alive, he's
+                        absorbed a great deal of radiation - - poor guy!</span></p>
+                  </div>
+               
+               
+               <div class="panel">
+                  
+                  <p class="caption"><span class="bold">I</span>N THE HOURS THAT FOLLOW, AFTER EXHAUSTIVE TESTS…</p>
+                  
+                  <p class="panel">Doctor : <span class="speech">The x-rays show an uncertain amount of
+                        brain damage! I'm afraid his mind has been permanently
+                        damaged!</span></p>
+                  
+                  <p class="panel">Doctor : <span class="speech">We can't remove those artificial arms
+                        of his yet! The radiation has caused them to adhere to his body in some
+                        strange way!</span></p>
+                  </div>
+               
+               
+               <div class="panel">
+                  
+                  <p class="caption"><span class="bold">F</span>INALLY, DAYS LATER, THE INJURED SCIENTIST RECOVERS
+                     CONSCIOUSNESS... </p>
+                  
+                  <p class="panel">Doc Ock: <span class="speech">What am I doing here? let me get up! I
+                        must return to my work!</span></p>
+                  
+                  <p class="panel">Doctor : <span class="speech">No! you've been very ill! you must stay
+                        in bed! you need the rest!</span></p>
+                  </div>
+               
+               <div class="panel">
+                  
+                  <p class="caption"><span class="bold">B</span>UT THE BRAIN OF DR. OCTOPUS-- THE BRAIN WHICH HAS BEEN DAMAGED BY
+                     RADIATION-- REACTS IN A BITTER WAY…</p>
+                  
+                  <p class="panel">Doc Ock: <span class="thought">They're jealous of me! They want to
+                        keep me from my work! But I'll show them! I'm stronger than <span class="bold">any</span> of
+                        them!</span></p>
+                  </div>
+               
+               <div class="panel">
+                  
+                  <p class="panel">Doc Ock: <span class="thought">The window is barred! They're trying
+                        to make a <span class="bold">prisoner</span> of me! The fools! <span class="bold">No one</span> can hold <span class="bold">Doctor Octopus</span> against
+                        his will! <span class="bold">No one!</span></span></p>
+                  </div>
+               </section>
+         </div>
+         <div class="page" id="p-5">
+            <section class="image">
+               <figure><img src="images/asm_pg5.jpeg" alt="Page 5"/><figcaption>Page 5</figcaption>
+               </figure>
+            </section>
+            <section class="content">
+               
+               <div class="panel">
+                  
+                  <p class="caption">
+                     <span class="bold">T</span>HEN SUDDENLY, AT JUST A SUGGESTION OF A THOUGHT BY DR.
+                     OCTOPUS, HIS ARTIFICIAL ARMS MOVE AS THOUGH THEY HAVE A WILL OF THEIR
+                     OWN...</p>
+                  
+                  <p class="panel">Doc Ock: <span class="thought">I’ve got to <span class="bold">break</span> those bars!</span></p>
+                  </div>
+               
+               <div class="panel">
+                  
+                  <p class="panel">Doc Ock: <span class="thought">
+                        <span class="bold">I did it!!</span> My <span class="bold">arms</span> did it! Their
+                        strength is incalculable! They can do <span class="bold">anything!</span>
+                        </span></p>
+                  </div>
+               
+               <div class="panel">
+                  
+                  <p class="panel">Doc Ock: <span class="thought">Somehow, my mechanical arms have
+                        almost become a <span class="bold">part of me!</span> They obey my every command
+                        with such power! And with my brilliant mind, I'm the supreme human being on
+                        Earth.</span></p>
+                  </div>
+               
+               <div class="panel">
+                  
+                  <p class="caption">
+                     <span class="bold">M</span>INUTES LATER...</p>
+                  
+                  <p class="panel">Doctor : <span class="speech">You wanted to see me, Dr.
+                        Octopus?</span></p>
+                  
+                  <p class="panel">Doc Ock: <span class="speech">Yes! Come in! Shut the door behind
+                        you!</span></p>
+                  </div>
+               
+               <div class="panel">
+                  
+                  <p class="panel">Doctor : <span class="speech">What is it? You-- oh, no! <span class="bold">No!</span>
+                        </span></p>
+                  
+                  <p class="panel">Doc Ock: <span class="speech">Ha-ha! You don't believe what you see?
+                        But it's <span class="bold">true!</span> I'm <span class="bold">all-powerful!</span>
+                        From now on, <span class="bold">I</span> give the commands here!</span></p>
+                  </div>
+               
+               <div class="panel">
+                  
+                  <p class="caption">
+                     <span class="bold">M</span>EANWHILE, AT THE OFFICE OF J. JONAH JAMESON, PUBLISHER
+                     OF THE <span class="bold">DAILY BUGLE</span>...</p>
+                  
+                  <p class="panel">JJ: <span class="speech">I want pictueres of the injured head scientist, Dr. Octopus, but no one is allowed
+                        to enter the hospital anymore!</span></p>
+                  
+                  <p class="panel">Assistant: <span class="speech">I never <span class="bold">heard</span>
+                        of any hospital keeping people out! Don't worry, J.J. <span class="bold">I'll</span> get those pix for you!</span></p>
+                  </div>
+               
+               <div class="panel">
+                  
+                  <p class="panel">JJ: <span class="speech">My best men have tried and failed! But so
+                        far you've succeeded in every assignment! I can't imagine how a teen-ager
+                        like you <span class="bold">does</span> it!</span></p>
+                  
+                  <p class="panel">Peter Parker: <span class="speech">Our agreement, J.J., is that you're never
+                        to ask me <span class="bold">how</span> I do it!</span></p>
+                  </div>
+               
+               <div class="panel">
+                  
+                  <p class="panel">Peter Parker: <span class="speech">Just have a check ready for me when
+                        I bring back the pix of Dr. Octopus!</span></p>
+                  
+                  <p class="panel">Peter Parker: <span class="thought">He doesn't suspect Peter Parker,
+                        the teenager he assigned to the job, is going to have <span class="bold">Spider-Man</span> do
+                        it!</span></p>
+                  </div>
+               </section>
+         </div>
+         <div class="page" id="p-6">
+            <section class="image">
+               <figure><img src="images/asm_pg6.jpeg" alt="Page 6"/><figcaption>Page 6</figcaption>
+               </figure>
+            </section>
+            <section class="content">
+               
+               <div class="panel">
+                  
+                  <p class="caption">
+                     <span class="bold">A</span>ND SO...</p>
+                  
+                  <p class="panel">Spiderman: <span class="thought">Here's the place! Strange that it's
+                        locked and nobody is admitted! What kind of hospital is it,
+                        anyway?</span></p>
+                  </div>
+               
+               <div class="panel">
+                  
+                  <p class="panel">Spiderman: <span class="thought">Well, there's <span class="bold">one</span> way to find out... <span class="bold">Spider-Man’s</span> just the
+                        cat to do it!</span></p>
+                  </div>
+               
+               <div class="panel">
+                  
+                  <p class="panel">Spiderman: <span class="thought">These suction fingers of mine will
+                        get me up the wall in <span class="bold">time!</span> Boy, it's <span class="bold">great</span> being <span class="bold">Spider-Man!</span> I can do almost <span class="bold">anything!</span>
+                        </span></p>
+                  </div>
+               
+               <div class="panel">
+                  
+                  <p class="panel">Spiderman: <span class="thought">The only problem is - - my jobs are
+                        <span class="bold">too</span> easy! I welcome a little <span class="bold">competition</span> once in a while!</span></p>
+                  </div>
+               
+               <div class="panel">
+                  
+                  <p class="caption">
+                     <span class="bold">A</span>ND, AS HE STEADILY CLIMBS UP THE SHEER OUTER WALL,
+                     LITTLE DOES <span class="bold">SPIDER-MAN</span> DREAM THAT HE IS SOON TO GET FAR
+                     <span class="bold">MORE</span> "COMPETITION" THAN HE EVER BARGAINED
+                     FOR!</p>
+                  </div>
+               
+               <div class="panel">
+                  
+                  <p class="caption">
+                     <span class="bold">S</span>ECONDS LATER...</p>
+                  
+                  <p class="panel">Spiderman: <span class="thought">Almost there!</span></p>
+                  </div>
+               
+               <div class="panel">
+                  
+                  <p class="panel">Spiderman: <span class="thought">
+                        <span class="bold">Holy mackerel!</span> What's <span class="bold">that?</span>
+                        </span></p>
+                  
+                  <p class="panel">Doc Ock: <span class="speech">
+                        <span class="bold">Silence!</span> Nobody is to speak when <span class="bold">Dr.
+                           Octopus</span> speaks!</span></p>
+                  </div>
+               </section>
+         </div>
+         <div class="page" id="p-7">
+            <section class="image">
+               <figure><img src="images/asm_pg7.jpeg" alt="Page 7"/><figcaption>Page 7</figcaption>
+               </figure>
+            </section>
+            <section class="content">
+               
+               <div class="panel">
+                  
+                  <p class="caption">
+                     <span class="bold">P</span>EERING UNSEEN THROUGH THE LARGE PICTURE WINDOW, <span class="bold">SPIDER-MAN</span> WITNESSES A STRANGE, UNEXPECTED
+                     SIGHT...</p>
+                  
+                  <p class="panel">Doctor : <span class="speech">You can’t keep all of us prisoners <span class="bold">forever</span> , Doctor Octopus! We've done what you
+                        asked—gotten you all the equipment you wanted! When will you let us
+                        go?</span></p>
+                  
+                  <p class="panel">Doc Ock: <span class="speech">Not until <span class="bold">I'm</span>
+                        ready! With my powers, <span class="bold">no one</span> can resist me! You'll
+                        remain to serve me until I no longer need you—and not before!</span></p>
+                  
+                  <p class="panel">Spiderman: <span class="thought">Well, well! So the good doc has
+                        flipped his lid, eh? Well, this is just what I’ve been <span class="bold">hopin'</span> for—a little <span class="bold">action!</span>
+                        </span></p>
+                  </div>
+               
+               <div class="panel">
+                  
+                  <p class="panel">Doctor : <span class="speech">But this is <span class="bold">mad!</span>
+                        You have no right—</span></p>
+                  
+                  <p class="panel">Doc Ock: <span class="speech">
+                        <span class="bold">Right?!</span> You dare speak to me of right?</span></p>
+                  </div>
+               
+               <div class="panel">
+                  
+                  <p class="panel">Doc Ock: <span class="speech">I have the <span class="bold">right</span>to do <span class="bold">anything—</span>as long as I have the <span class="bold">power!</span> And if you <span class="bold">doubt</span> my power,
+                        here is a small sample...</span></p>
+                  
+                  <p class="panel">Doctor : <span class="speech">No! <span class="bold">Don’t!</span> Let me
+                        down!</span></p>
+                  </div>
+               
+               <div class="panel">
+                  
+                  <p class="panel">Spiderman: <span class="thought">Looks like it’s time for <span class="bold">Spider-Man</span> to join the party before he really hurts
+                        that fella!</span></p>
+                  </div>
+               
+               <div class="panel">
+                  
+                  <p class="panel">Spiderman: <span class="speech">Hold it, doc! How about picking on
+                        someone who can fight you back?</span></p>
+                  
+                  <p class="panel">Doc Ock: <span class="speech">
+                        <span class="bold">Spider-Man!</span>
+                        </span></p>
+                  </div>
+               
+               <div class="panel">
+                  
+                  <p class="panel">: <span class="speech">Well, I sure ain’t Albert Schweitzer!</span></p>
+                  
+                  <p class="panel">: <span class="speech">You dare speak flippantly to <span class="bold">me!</span> You fool! When I'm finished with you, you’ll sing a <span class="bold">different</span> tune!</span></p>
+                  </div>
+               </section>
+         </div>
+         <div class="page" id="p-8">
+            <section class="image">
+               <figure><img src="images/asm_pg8.jpeg" alt="Page 8"/><figcaption>Page 8</figcaption>
+               </figure>
+            </section>
+            <section class="content">
+               
+               <div class="panel">
+                  
+                  <p class="panel">Spiderman: <span class="speech">You don’t think those dumb-looking
+                        flappers of yours can move fast enough to catch <span class="bold">spider-man</span> do you?</span></p>
+                  </div>
+               
+               <div class="panel">
+                  
+                  <p class="panel">Spiderman: <span class="speech"><span class="bold">HEY..!!
+                           WHA—?</span></span></p>
+                  </div>
+               
+               <div class="panel">
+                  
+                  <p class="panel">Doc Ock: <span class="speech">Surprised? <span class="bold">Doctor
+                           Octopus</span> is far more powerful than you dreamed! far more powerful
+                        than even <span class="bold">you!</span></span></p>
+                  </div>
+               
+               <div class="panel">
+                  
+                  <p class="panel">Spiderman: <span class="speech">Don’t let that one lucky punch go to
+                        your head, pal! I’ve a few <span class="bold">more</span> surprises!</span></p>
+                  
+                  <p class="panel">Doc Ock: <span class="thought">Ah! Most ingenious of you! Your
+                        spider’s web!!</span></p>
+                  </div>
+               
+               <div class="panel">
+                  
+                  <p class="panel">Doc Ock: <span class="thought">But, as you can see, holding only <span class="bold">two</span>
+                        of my arms isn’t enough! I still have <span class="bold">more</span>!</span></p>
+                  
+                  <p class="panel">Spiderman: <span class="thought">No time to shoot my web again! He’s
+                        faster than I expected! </span></p>
+                  </div>
+               
+               <div class="panel">
+                  
+                  <p class="panel">Spiderman: <span class="thought">But I can still <span class="bold">grab</span> his other
+                        arms!</span></p>
+                  
+                  <p class="panel">Spiderman: <span class="speech"><span class="bold">Oof!</span> It takes all my strength! He--he
+                        <span class="bold">also</span> has super-human strength! </span></p>
+                  </div>
+               
+               <div class="panel">
+                  
+                  <p class="panel">Spiderman: <span class="thought">My <span class="bold">web</span>! He <span class="bold">snapped</span> it! Nobody has
+                        ever done that before! </span></p>
+                  
+                  <p class="panel">Doc Ock: <span class="speech">And now, <span class="bold">Spider-man</span>, I grow bored with
+                        this game! My time is too valuable! </span></p>
+                  </div>
+               </section>
+         </div>
+         <div class="page" id="p-9">
+            <section class="image">
+               <figure><img src="images/asm_pg9.jpeg" alt="Page 9"/><figcaption>Page 9</figcaption>
+               </figure>
+            </section>
+            <section class="content">
+               
+               <div class="panel">
+                  
+                  <p class="panel">Doc Ock: <span class="speech">Now, watch <span class="bold">me</span> trap a spider in a web
+                        of my <span class="bold">own--</span>a web made of my new-found <span class="bold">arms</span>! Your strength is merely that of
+                        a spider, but mine is the energy of an <span class="bold">atom</span>, born of a nuclear
+                        accident!</span></p>
+                  
+                  <p class="panel">Spiderman: <span class="thought">I’m <span class="bold">helpless</span>! Can’t fight all those
+                        arms at once! Don’t know what to do next! He’s just <span class="bold">toying</span> with
+                        me!</span></p>
+                  </div>
+               
+               <div class="panel">
+                  
+                  <p class="panel">Doc Ock: <span class="speech">You dared to <span class="bold">mock</span> me before! Why
+                        aren’t you mocking me <span class="bold">now</span>? where are your brave words and taunts <span class="bold">now,
+                           Spider-man?</span></span></p>
+                  </div>
+               
+               <div class="panel">
+                  
+                  <p class="panel">Doc Ock: <span class="speech">Or do you realize you’ve finally met
+                        your <span class="bold">master</span>? And now, you can leave the way you entered! You’re no threat to
+                        <span class="bold">me</span>!</span></p>
+                  </div>
+               
+               <div class="panel">
+                  
+                  <p class="caption"><span class="bold">W</span>EAK, GROGGY, JUST BARELY CONSCIOUS, <span class="bold">SPIDER-MAN</span> HAS HIS FALL
+                     BROKEN BY A TREE, AS HE FINALLY SLUMPS TO THE GROUND... IN
+                     DEFEAT!</p>
+                  </div>
+               </section>
+         </div>
+         <div class="page" id="p-10">
+            <section class="image">
+               <figure><img src="images/asm_pg10.jpeg" alt="Page 10"/><figcaption>Page 10</figcaption>
+               </figure>
+            </section>
+            <section class="content">
+               
+               <div class="panel">
+                  
+                  <p class="panel">Spiderman: <span class="thought">He beat me! I--I never had a <span class="bold">chance</span>!</span></p>
+                  
+                  <p class="panel">Spiderman: <span class="thought">I didn’t even give him a good fight! He could’ve finished me off any time he wanted
+                        to!</span></p>
+                  </div>
+               
+               <div class="panel">
+                  
+                  <p class="panel">Spiderman: <span class="thought">What do I do <span class="bold">now?</span> I've never been beaten before! But <span class="bold">this</span> time, my spider powers were not enough! Is this the end of <span class="bold">Spider-Man?</span></span></p>
+                  </div>
+               
+               <div class="panel">
+                  
+                  <p class="caption"><span class="bold">N</span>OT LONG AFTERWARDS, AT THE HOSPITAL...</p>
+                  
+                  <p class="panel">Doc Ock: <span class="thought">Even though I defeated <span class="bold">Spider-Man</span>, my prisoners escaped during the fight! I must leave, before the police arrive!</span></p>
+                  </div>
+               
+               <div class="panel">
+                  
+                  <p class="panel">Doc Ock: <span class="thought">With my <span class="bold">arms</span>, I can go anywhere... Do anything! Fences can’t stop me! No one can catch me!</span></p>
+                  </div>  
+               
+               <div class="panel">
+                  
+                  <p class="panel">Doc Ock: <span class="thought">Now that I have reached my objective, any unlocked window will furnish an entrance
+                        for me!</span></p>
+                  </div> 
+               
+               <div class="panel">
+                  
+                  <p class="panel">Doc Ock: <span class="thought">The security police aren’t apt to notice an extra pipe or two up on the ceiling! Once
+                        he’s gone, I can act freely!</span></p>
+                  </div> 
+               </section>
+         </div>
+         <div class="page" id="p-11">
+            <section class="image">
+               <figure><img src="images/asm_pg11.jpeg" alt="Page 11"/><figcaption>Page 11</figcaption>
+               </figure>
+            </section>
+            <section class="content">
+               
+               <div class="panel">
+                  
+                  <p class="panel">Doc Ock: <span class="thought"><span class="bold">This</span> is what I’m after! The brain center of the entire atomic lab! Once I take it over,
+                        the greatest source of atomic power in the nation will be <span class="bold">mine</span>!</span></p>
+                  </div>
+               
+               <div class="panel">
+                  
+                  <p class="panel">Doc Ock: <span class="thought">It’s an easy matter for <span class="bold">Doctor Octopus</span> to unlock a door!</span></p>
+                  </div>
+               
+               <div class="panel">
+                  
+                  <p class="panel">Doc Ock: <span class="speech"><span class="bold">Out!</span> All of you!… <span class="bold">I’m</span> taking over now!</span></p>
+                  
+                  <p class="panel">Worker 1: <span class="speech">D-Did you see <span class="bold">that?</span> It was <span class="bold">Doctor Octopus!</span></span></p>
+                  
+                  <p class="panel">Worker 2: <span class="speech">But what’s he <span class="bold">up</span> to?</span></p>
+                  </div>
+               
+               <div class="panel">
+                  
+                  <p class="panel">Doc Ock: <span class="thought"><span class="bold">Nothing</span> can stop me now! Between my own super-strength and the atomic power which is mine
+                        to command here, I’m the <span class="bold">strongest man alive</span>!</span></p>
+                  
+                  <p class="panel">Doc Ock: <span class="thought"> But first, I’ll give the world a <span class="bold">demonstration</span> of my strength! I’ll <span class="bold">destroy</span> part of this plant and rebuild it to suit myself!</span></p>
+                  </div>
+               
+               <div class="panel">
+                  
+                  <p class="caption">And so…</p>
+                  
+                  <p class="panel">Worker : <span class="speech">Something’s happened to the lead shielding! It’s been lowered! The radiation is starting
+                        to <span class="bold">escape</span>!</span></p>
+                  </div>
+               
+               <div class="panel">
+                  
+                  <p class="panel">Worker : <span class="speech"><span class="bold">Look!</span> The giant machines are running out of control--as though some <span class="bold">madman</span> is guiding them!</span></p>
+                  </div>
+               
+               <div class="panel">
+                  
+                  <p class="panel">Worker : <span class="speech">There’s too much pressure in the main valves! The pipes are overheating… exploding!
+                        It isn’t safe to stay here!</span></p>
+                  </div>
+               </section>
+         </div>
+         <div class="page" id="p-12">
+            <section class="image">
+               <figure><img src="images/asm_pg12.jpeg" alt="Page 12"/><figcaption>Page 12</figcaption>
+               </figure>
+            </section>
+            <section class="content">
+               
+               <div class="panel">
+                  
+                  <p class="caption"><span class="bold">B</span>ut, within minutes, the source of the trouble is made known, and...</p>
+                  
+                  <p class="panel">Worker 1: <span class="speech">We’ve <span class="bold">got</span> to reach <span class="bold">Doctor Octopus</span> somehow!</span></p>
+                  
+                  <p class="panel">Worker 2: <span class="speech">We <span class="bold">can’t</span>! He’s set up electronic barriers all over the place!</span></p>
+                  </div>
+               
+               <div class="panel">
+                  
+                  <p class="caption"><span class="bold">A</span>nd, before long, the entire plant is evacuated, except for...</p>
+                  
+                  <p class="panel">Doc Ock: <span class="speech">They realize I cannot be stopped and have given up trying! I’ve <span class="bold">won!!</span> The plant is <span class="bold">mine!</span> I am now in complete control!</span></p>
+                  </div>
+               
+               <div class="panel">
+                  
+                  <p class="caption"><span class="bold">T</span>he foremost brains of the nation’s armed forces and security agencies confer feverishly,
+                     but to no avail...</p>
+                  
+                  <p class="panel">Officer  1: <span class="speech">We’ve never been up against anything like this before! A brilliant scientist, with
+                        super-human powers, on a mad rampage!</span></p>
+                  
+                  <p class="panel">Officer  2: <span class="speech">If we can’t stop him, then we must see that innocent people are not injured!</span></p>
+                  </div>
+               
+               <div class="panel">
+                  
+                  <p class="caption"><span class="bold">A</span>nd so, the order goes out—no one is allowed in or out of the atomic plant...</p>
+                  
+                  <p class="panel">Guard : <span class="thought">Can’t figure out <span class="bold">why</span> they post sentries here! If <span class="bold">Dr. Octopus</span> tries to get out, how can we <span class="bold">stop</span> him?</span></p>
+                  </div>
+               
+               <div class="panel">
+                  
+                  <p class="caption"><span class="bold">M</span>eanwhile, what of teen-age Peter Parker, alias <span class="bold">Spider-Man?</span></p>
+                  
+                  <p class="panel">may: <span class="thought">Poor Peter’s been moping in his room for hours! I <span class="bold">wish</span> he’d tell me what’s wrong!</span></p>
+                  
+                  <p class="panel">Peter Parker: <span class="thought">I’m a failure! <span class="bold">Spider-Man</span> is a joke... a nothing. There's the phone!</span></p>
+                  
+                  <p class="caption"><span class="bold">BR-I-I-NG!</span></p>
+                  </div>
+               
+               <div class="panel">
+                  
+                  <p class="panel">Peter Parker: <span class="speech">Mr. Jameson? No, I won’t be able to get the pictures of Doctor Octopus! No, I probably
+                        <span class="bold">won’t</span> be able to get any more! Sorry... yeah... good bye.</span></p>
+                  </div>
+               
+               <div class="panel">
+                  
+                  <p class="panel">may: <span class="speech">Peter, dear, what’s wrong? I can’t bear to see you so unhappy! Is there anything I
+                        can do to help?</span></p>
+                  
+                  <p class="panel">Peter Parker: <span class="speech">No, Aunt May... it’s... it’s my own personal problem! I’ll get over it! Got to leave
+                        now... time for school!</span></p>
+                  </div>
+               </section>
+         </div>
+         <div class="page" id="p-13">
+            <section class="image">
+               <figure><img src="images/asm_pg13.jpeg" alt="Page 13"/><figcaption>Page 13</figcaption>
+               </figure>
+            </section>
+            <section class="content">
+               
+               <div class="panel">
+                  
+                  <p class="panel">Kid 1: <span class="speech">Hello, Petey!... Say, what's wrong with him? He didn't <span class="bold">answer!</span></span></p>
+                  
+                  <p class="panel">Peter Parker: <span class="thought">And there's no one I can talk to... No one who'd understand!</span></p>
+                  
+                  <p class="panel">Kid 2: <span class="speech">Him? He's down in the dumps! Looks like he lost his favorite test tube!</span></p>
+                  </div>
+               
+               <div class="panel">
+                  
+                  <p class="panel">Kid 1: <span class="speech">Pete, did you hear the big news? The governer's asked the <span class="bold">Fantastic Four</span> to try to capture Doctor Octopus!</span></p>
+                  
+                  <p class="panel">Kid 3: <span class="speech">They're busy with another case, but they sent the <span class="bold">Human Torch</span> to see what he can do! He's speaking at our assembly today!</span></p>
+                  
+                  <p class="panel">Peter Parker: <span class="thought">Big deal!</span></p>
+                  </div>
+               
+               <div class="panel">
+                  
+                  <p class="caption">Later, at the school assembly...</p>
+                  
+                  <p class="panel">Human Torch: <span class="speech"> I was asked here to tackle Doctor Octopus. But I've used my flame so much recently,
+                        I have to wait a few days to let it get strong again! While I'm waiting, your principal
+                        asked me to address you...</span></p>
+                  
+                  <p class="panel">Peter Parker: <span class="thought">If only I had <span class="bold">his</span> power... <span class="bold">his</span> confidence!... But that's wasy when you've never been beaten!</span></p>
+                  </div>
+               
+               <div class="panel">
+                  
+                  <p class="panel">Human Torch: <span class="speech">Now for a little demonstration! I can't apply my total flame, but here are some fiery
+                        figures for you!</span></p>
+                  
+                  <p class="panel">Human Torch: <span class="speech">This is what usually happens when The <span class="bold">Thing</span> helps me with my homework! I get results like <span class="bold">this!</span></span></p>
+                  </div>
+               
+               <div class="panel">
+                  
+                  <p class="caption"><span class="bold">T</span>hen, after a few more colorful demonstrations...</p>
+                  
+                  <p class="panel">Human Torch: <span class="speech">Now, for a parting thought! Stick to your school work and do your best in your studies!
+                        Don't be discouraged if it sometimes seems tough! The important thing is never give
+                        up! Remember that-- <span class="bold">never give up!</span></span></p>
+                  
+                  <div class="panel">
+                     
+                     <p class="panel">Human Torch: <span class="speech">Ability alone isn't enough! It's <span class="bold">one</span> lesson I've learned from my partnership with the <span class="bold">Fantastic Four!</span></span></p>
+                     
+                     <p class="panel">Peter Parker: <span class="thought">It's almost as though he's talking to <span class="bold">me!</span></span></p>
+                     </div>
+                  </div>
+               
+               <div class="panel">
+                  
+                  <p class="panel">Human Torch: <span class="speech">Even the <span class="bold">Fantastic Four</span> have had defeats-- but we always come back! Our motto is never say die!</span></p>
+                  
+                  <p class="panel">Peter Parker: <span class="thought">He's <span class="bold">right!</span> By golly, he's <span class="bold">right!</span></span></p>
+                  </div>
+               
+               <div class="panel">
+                  
+                  <p class="caption"><span class="bold">L</span>ATER, AT THE CONCLUSION OF <span class="bold">THE TORCH’S</span> LECTURE...</p>
+                  
+                  <p class="panel">Peter Parker: <span class="speech">I want to thank you for that speech! I—I’ll never <span class="bold">forget</span> what you said today! It meant a <span class="bold">lot</span> to me!</span></p>
+                  
+                  <p class="panel">Human Torch: <span class="speech">Huh? Oh, Sure-- sure! Glad you enjoyed it, fella!</span></p>
+                  </div>
+               </section>
+         </div>
+         <div class="page" id="p-14">
+            <section class="image">
+               <figure><img src="images/asm_pg14.jpeg" alt="Page 14"/><figcaption>Page 14</figcaption>
+               </figure>
+            </section>
+            <section class="content">
+               
+               <div class="panel">
+                  
+                  <p class="caption"><span class="bold">L</span>IKE A MAN POSSESSED PETER PARKER RACES HOME TO THE PRIVACY OF HIS ROOM, AND...</p>
+                  
+                  <p class="panel">Peter Parker: <span class="thought">I guess if the <span class="bold">Fantastic Four</span> could be defeated, and then go back for more, <span class="bold">Spider-Man</span> can <span class="bold">too!</span></span></p>
+                  </div>
+               
+               <div class="panel">
+                  
+                  <p class="panel">Spiderman: <span class="thought">Okay, <span class="bold">Doctor Octopus!</span> This is <span class="bold">it!!</span> Now that I know how strong you are, you won't have the advantage of <span class="bold">surprise</span> on your side again!</span></p>
+                  </div>
+               
+               <div class="panel">
+                  
+                  <p class="panel">Spiderman: <span class="thought">This is <span class="bold">one</span> easy way to get past those sentries below!</span></p>
+                  </div>
+               
+               <div class="panel">
+                  
+                  <p class="panel">Guard 1: <span class="speech"><span class="bold">Hey!</span> Did you just see someone flying above us?</span></p>
+                  
+                  <p class="panel">Guard 2: <span class="speech">Someone <span class="bold">flying</span> above us? Are you some kinda <span class="bold">nut</span> or somethin'?</span></p>
+                  </div>
+               
+               <div class="panel">
+                  
+                  <p class="panel">Spiderman: <span class="thought">So far, so good! I landed safely on the roof without being stopped!</span></p>
+                  </div>
+               
+               <div class="panel">
+                  
+                  <p class="panel">Spiderman: <span class="thought">Now, to get as close as I can to <span class="bold">Doctor Octopus</span> before he discovers me!</span></p>
+                  </div>
+               
+               <div class="panel">
+                  
+                  <p class="caption"><span class="bold">B</span>UT THE STRANGE SCIENTIST HAS EYES EVERYWHERE, AND...</p>
+                  
+                  <p class="panel">Doc Ock: <span class="thought">It's <span class="bold">Spider-Man</span> again! Well, <span class="bold">this</span> time he won't be so lucky! <span class="bold">This</span> time I'll finish him for good!</span></p>
+                  </div>
+               </section>
+         </div>
+         <div class="page" id="p-15">
+            <section class="image">
+               <figure><img src="images/asm_pg15.jpeg" alt="Page 15"/><figcaption>Page 15</figcaption>
+               </figure>
+            </section>
+            <section class="content">
+               
+               <div class="panel">
+                  
+                  <p class="panel">Doc Ock: <span class="speech">From now on, I allow <span class="bold">no one</span> to interfere with my plans! I will permit <span class="bold">no one</span> to defy me!</span></p>
+                  </div>
+               
+               <div class="panel">
+                  
+                  <p class="caption"><span class="bold">A</span>ND, AT THAT MOMENT...</p>
+                  
+                  <p class="panel">Spiderman: <span class="thought">My spider senses warn me of danger behind me!</span></p>
+                  </div>
+               
+               <div class="panel">
+                  
+                  <p class="panel">Spiderman: <span class="speech">Nice try, <span class="bold">Doctor Octopus</span>, but I'm <span class="bold">ready</span> for you this time!</span></p>
+                  </div>
+               
+               <div class="panel">
+                  
+                  <p class="panel">Spiderman: <span class="speech">With my spider senses fully alert, and my spider muscles in top condition, he can't
+                        possibly hurl those electronic bolts fast enough to hurt me!</span></p>
+                  </div>
+               
+               <div class="panel">
+                  
+                  <p class="panel">Spiderman: <span class="thought">He knows my every move! He must be watching me on some sort of TV hookup! Well, I'll
+                        just go somewhere out of range... as only <span class="bold">I</span> can!</span></p>
+                  </div>
+               
+               <div class="panel">
+                  
+                  <p class="panel">Doc Ock: <span class="thought">He's found a way to evade my electronic scanners! Hmm... he's cleverer than I thought!</span></p>
+                  </div>
+               </section>
+         </div>
+         <div class="page" id="p-16">
+            <section class="image">
+               <figure><img src="images/asm_pg16.jpeg" alt="Page 16"/><figcaption>Page 16</figcaption>
+               </figure>
+            </section>
+            <section class="content">
+               
+               <div class="panel">
+                  
+                  <p class="panel">Doc Ock: <span class="thought">But I’ll defeat him with my
+                        all-powerful <span class="bold">arms</span>, as I did before! He won’t elude me
+                        <span class="bold">now!</span></span></p>
+                  </div>
+               
+               <div class="panel">
+                  
+                  <p class="panel">Spiderman: <span class="thought">Ah, <span class="bold">there’s</span>
+                        what I’m looking for—the <span class="bold">chem</span>lab!</span></p>
+                  </div>
+               
+               <div class="panel">
+                  
+                  <p class="panel">Spiderman: <span class="thought">I’ve got to move <span class="bold">fast!</span> It won’t be long before he <span class="bold">finds</span>
+                        me!</span></p>
+                  </div>
+               
+               <div class="panel">
+                  
+                  <p class="panel">Spiderman: <span class="thought">
+                        <span class="bold">There!!</span> It’s done!</span></p>
+                  </div>
+               
+               <div class="panel">
+                  
+                  <p class="panel">Spiderman: <span class="thought">And now this wiring’ll suit my
+                        purpose just fine!</span></p>
+                  </div>
+               
+               <div class="panel">
+                  
+                  <p class="panel">Spiderman: <span class="thought">Mustn’t make a mistake! <span class="bold">Doctor Octopus</span> won’t give me a second chance if
+                        anything goes wrong.</span></p>
+                  </div>
+               </section>
+         </div>
+         <div class="page" id="p-17">
+            <section class="image">
+               <figure><img src="images/asm_pg17.jpeg" alt="Page 17"/><figcaption>Page 17</figcaption>
+               </figure>
+            </section>
+            <section class="content">
+               
+               <div class="panel">
+                  
+                  <p class="panel">Spiderman: <span class="thought">I still can't be sure this will
+                        work, but I've <span class="bold">GOT</span> to try it!</span></p>
+                  </div>
+               
+               <div class="panel">
+                  
+                  <p class="panel">Spiderman: <span class="thought">Now to find <span class="bold">DOCTOR
+                           OCTOPUS!</span></span></p>
+                  </div>
+               
+               <div class="panel">
+                  
+                  <p class="caption"><span class="bold">O</span>NCE AGAIN, AT THE LAST
+                     SPLIT-SECOND, <span class="bold">SPIDER-MAN'S</span> SPIDER INSTINCT SAVES HIM
+                     FROM SUDDEN DEFEAT...</p>
+                  
+                  <p class="panel">Doc Ock: <span class="speech">
+                        <span class="bold">Hah!</span>I've got you, <span class="bold">SPIDER-MAN!</span>
+                        Wha--?</span></p>
+                  
+                  <p class="panel">Spiderman: <span class="speech">Oh, <span class="bold">NO,</span> you
+                        don't!</span></p>
+                  </div>
+               
+               <div class="panel">
+                  
+                  <p class="caption"><span class="bold">M</span>OVING WITH EVERY OUNCE OF
+                     SPEED HE POSSESSES, <span class="bold">SPIDER-MAN</span> MANAGES TO LOOP ONE OF
+                     HIS HASTILY CONSTRUCTED DEVICES AROUND TWO OF <span class="bold">DOCTOR
+                        OCTOPUS'</span> ARMS BEFORE ANOTHER ARM, STRIKING OUT, FORCES HIM TO DROP
+                     THE SECOND DEVICE...</p>
+                  
+                  <p class="panel">Spiderman: <span class="speech">
+                        <span class="bold">OHH!</span>
+                        </span></p>
+                  </div>
+               
+               <div class="panel">
+                  
+                  <p class="caption"><span class="bold">B</span>UT <span class="bold">SPIDER-MAN</span> HAS SUPER-HUMAN STRENGTH, EVEN AS <span class="bold">DOCTOR OCTOPUS,</span> AND HE RECOVERS FROM THE BLOW IN SECONDS, IN TIME
+                     TO DIVE OUT OF HARM'S WAY...</p>
+                  
+                  <p class="panel">Spiderman: <span class="thought">Now to get out of reach and watch
+                        what happens!</span></p>
+                  
+                  <p class="panel">Doc Ock: <span class="speech">You hope to defeat me with a foolish
+                        thing like <span class="bold">THIS?</span> You must be <span class="bold">MAD!</span>
+                        </span></p>
+                  </div>
+               
+               <div class="panel">
+                  
+                  <p class="panel">Doc Ock: <span class="thought">Oh, I see! It's a chemical which
+                        fuses my metal arms together! Hmm... clever!</span></p>
+                  
+                  <p class="panel">Doc Ock: <span class="thought">But I can take care of that easily --
+                        <span class="bold">after</span> I dispose of <span class="bold">you</span> for
+                        good!</span></p>
+                  </div>
+               </section>
+         </div>
+         <div class="page" id="p-18">
+            <section class="image">
+               <figure><img src="images/asm_pg18.jpeg" alt="Page 18"/><figcaption>Page 18</figcaption>
+               </figure>
+            </section>
+            <section class="content">
+               
+               <div class="panel">
+                  
+                  <p class="caption"><span class="bold">S</span> LOWLY, INEXORABLY, <span class="bold">DR. OCTOPUS</span> FORCES <span class="bold">SPIDER-MAN</span> BACK
+                     AGAINST THE WALL, BLOCKING HIS WEB WITH HIS SWIFTLY-MOVING
+                     ARMS...</p>
+                  
+                  <p class="panel">Doc Ock: <span class="speech"><span class="bold">HA-HA!</span> Even your
+                        fast-shooting web isn't quick enough for me!</span></p>
+                  </div>
+               
+               <div class="panel">
+                  
+                  <p class="panel">Spiderman: <span class="thought">He's using his fused arms like a
+                        <span class="bold">club!</span> I can't retreat any further! My back is to
+                        the wall! I've got to take a <span class="bold">desperate</span>
+                        chance!</span></p>
+                  </div>
+               
+               <div class="panel">
+                  
+                  <p class="caption"><span class="bold">M</span>OVING LIKE A PERSON
+                     POSSESSED, <span class="bold">SPIDER-MAN</span> WHIPS HIS LEGS AROUND ONE OF <span class="bold">DOCTOR OCTOPUS'</span> TENTACLE ARMS, WHILE HE SEIZES THE
+                     OTHER FREE ARM WITH BOTH OF HIS POWERFUL HANDS...</p>
+                  
+                  <p class="panel">Spiderman: <span class="speech">
+                        <span class="bold">Got you!</span>
+                        </span></p>
+                  
+                  <p class="panel">Doc Ock: <span class="speech">But not for <span class="bold">long!</span>
+                        </span></p>
+                  </div>
+               
+               <div class="panel">
+                  
+                  <p class="caption"><span class="bold">T</span>HEN, BEFORE DOCTOR OCTOPUS
+                     CAN MAKE ANOTHER MOVE, <span class="bold">SPIDER-MAN</span> SHOOTS HIS AMAZING
+                     WEB DIRECTLY AT THE STARTLED SCIENTIST'S FACE...</p>
+                  
+                  <p class="panel">Spiderman: <span class="speech">I should have realized sooner, <span class="bold">OCTOPUS,</span> the best defense is a smashing <span class="bold">offense!</span></span></p>
+                  </div>
+               
+               <div class="panel">
+                  
+                  <p class="panel">Doc Ock: <span class="speech">That blasted web! It's spread out over
+                        my glasses! I--I <span class="bold">can't see!</span> Can't get it
+                        off!</span></p>
+                  </div>
+               
+               <div class="panel">
+                  
+                  <p class="panel">Spiderman: <span class="thought">Even though he can no longer see
+                        me, his other arms are now around me -- pulling me toward him with
+                        incredible strength!</span></p>
+                  </div>
+               </section>
+         </div>
+         <div class="page" id="p-19">
+            <section class="image">
+               <figure><img src="images/asm_pg19.jpeg" alt="Page 19"/><figcaption>Page 19</figcaption>
+               </figure>
+            </section>
+            <section class="content">
+               
+               <div class="panel">
+                  
+                  <p class="panel">Doc Ock: <span class="speech">Ah... <span class="bold">there!!</span> I
+                        got them off!</span></p>
+                  
+                  <p class="panel">Spiderman: <span class="thought">I’ve got his two free arms apart!
+                        But I dare not let <span class="bold">go</span> of them!</span></p>
+                  </div>
+               
+               <div class="panel">
+                  
+                  <p class="panel">Doc Ock: <span class="speech"><span class="bold">Give up</span>, fool!
+                        Sooner or later you’ll <span class="bold">have</span> to let go, and then I’ll
+                        <span class="bold">have</span> you!</span></p>
+                  
+                  <p class="panel">Spiderman: <span class="thought">I’ve got <span class="bold">one</span>
+                        chance... but I’ve got to time it to the split second or I’m <span class="bold">finished!</span></span></p>
+                  </div>
+               
+               <div class="panel">
+                  
+                  <p class="caption">
+                     <span class="bold">S</span>UDDENLY, <span class="bold">SPIDER-MAN</span> LETS GO OF
+                     <span class="bold">DOCTOR OCTOPUS’</span> ARMS AND, AT THE SAME INSTANT,
+                     LASHES OUT WITH A SMASHING RIGHT!</p>
+                  
+                  <p class="panel">Spiderman: <span class="speech">
+                        <span class="bold">Now!</span>
+                        </span></p>
+                  </div>
+               
+               <div class="panel">
+                  
+                  <p class="panel">Spiderman: <span class="thought">I <span class="bold">did</span> it! I
+                        knocked him out!</span></p>
+                  
+                  <p class="panel">Spiderman: <span class="thought"> I had to let him go, and then
+                        strike faster than he could move!</span></p>
+                  
+                  <p class="panel">Spiderman: <span class="thought">Strange that an old fashioned puch
+                        to the jaw defeated the most dangerous villain I've ever
+                        faced!</span></p>
+                  </div>
+               
+               <div class="panel">
+                  
+                  <p class="panel">Spiderman: <span class="thought">Better not take any chances! I’ll
+                        wrap my webbing around him many times while he’s out! He’ll <span class="bold">never</span>be able to snap <span class="bold">this!</span></span></p>
+                  </div>
+               
+               <div class="panel">
+                  
+                  <p class="caption"><span class="bold">L</span>ATER, AT THE SENTRY POST
+                     OUTSIDE THE ATOMIC PLANT...</p>
+                  
+                  <p class="panel">Guard  1: <span class="speech">Captain! We’ve been hearing noises
+                        inside there! Like a <span class="bold">fight!</span></span></p>
+                  
+                  <p class="panel">Guard  2: <span class="speech">Someone must have sneaked past us
+                        and—<span class="bold">look!</span> over there!</span></p>
+                  </div>
+               </section>
+         </div>
+         <div class="page" id="p-20">
+            <section class="image">
+               <figure><img src="images/asm_pg20.jpeg" alt="Page 20"/><figcaption>Page 20</figcaption>
+               </figure>
+            </section>
+            <section class="content">
+               
+               <div class="panel">
+                  
+                  <p class="panel">Soldier 1: <span class="speech">It’s the sign of <span class="bold">Spider-Man!</span></span></p>
+                  
+                  <p class="panel">Soldier 2: <span class="speech"> There he <span class="bold">is!</span>
+                        He’s waving to us to come on!</span></p>
+                  </div>
+               
+               <div class="panel">
+                  
+                  <p class="panel">Soldier 1: <span class="speech">Careful, pal! No telling <span class="bold">what’s</span> goin’ on!</span></p>
+                  
+                  <p class="panel">Soldier 2: <span class="speech">You’re tellin’ <span class="bold">me!</span> I’m gonna shoot <span class="bold">first</span> and ask questions
+                        <span class="bold">later!</span></span></p>
+                  </div>
+               
+               <div class="panel">
+                  
+                  <p class="panel">Soldier 1: <span class="speech"><span class="bold">Look</span>! It’s <span class="bold">Doctor Octopus!</span> He’s all tied up and
+                        helpless!</span></p>
+                  
+                  <p class="panel">Doc Ock: <span class="speech">Don’t just <span class="bold">stand</span>
+                        there! Get me <span class="bold">out</span> of this!</span></p>
+                  </div>
+               
+               <div class="panel">
+                  
+                  <p class="panel">Spiderman: <span class="thought">The authorities will be able to
+                        handle <span class="bold">Doctor Octopus</span> now!</span></p>
+                  
+                  <p class="panel">Spiderman: <span class="thought">But I still have one more thing to
+                        take care of—as <span class="bold">Spider-Man!</span></span></p>
+                  </div>
+               
+               <div class="panel">
+                  
+                  <p class="caption"><span class="bold">M</span>INUTES LATER, THE
+                     DRAMATICALLY COSTUMED SUPER-HERO CLIMBS THE SHEER WALL OF A NEARBY
+                     HOLTEL...</p>
+                  
+                  <p class="panel">Spiderman: <span class="thought">He's somewhere in this holtel! I'll
+                        find him easily!</span></p>
+                  </div>
+               
+               <div class="panel">
+                  
+                  <p class="panel">Spiderman: <span class="thought">My spider sense tells me that his
+                        room is just ahead!</span></p>
+                  </div>
+               </section>
+         </div>
+         <div class="page" id="p-21">
+            <section class="image">
+               <figure><img src="images/asm_pg21.jpeg" alt="Page 21"/><figcaption>Page 21</figcaption>
+               </figure>
+            </section>
+            <section class="content">
+               
+               <div class="panel">
+                  
+                  <p class="caption">
+                     <span class="bold">A</span>ND INSIDE THE ROOM IN QUESTION...</p>
+                  
+                  <p class="panel">Doctor : <span class="speech">Good news,<span class="bold">Torch!</span>
+                        Your temperature is down and your virus is gone! By now, your flame should
+                        be working at full strength!</span></p>
+                  
+                  <p class="panel">Human Torch: <span class="speech">Great, Doc! I wanna show my
+                        partners in the <span class="bold">Fantastic Four</span> that I can tackle <span class="bold">Doctor Octopus Alone!</span></span></p>
+                  </div>
+               
+               <div class="panel">
+                  
+                  <p class="panel">Human Torch: <span class="speech">
+                        <span class="bold">FLAME ON!</span>
+                        </span></p>
+                  
+                  <p class="panel">Spiderman: <span class="speech"> And now for--</span></p>
+                  
+                  <p class="panel">Spiderman: <span class="speech">Relax,Torch! Doctor Octopus has been
+                        captured already!</span></p>
+                  </div>
+               
+               <div class="panel">
+                  
+                  <p class="panel">Spiderman: <span class="speech">Thanks to <span class="bold">you,</span>
+                        Torch, Octopus is safely under wraps! And I owe you <span class="bold">additional</span> thanks because, if not for you, <span class="bold">Spider-Man</span> might’ve been finished, too!</span></p>
+                  
+                  <p class="panel">Human Torch: <span class="speech"> Huh?</span></p>
+                  </div>
+               
+               <div class="panel">
+                  
+                  <p class="panel">Spiderman: <span class="speech">So long,Torch! See ya around,
+                        pal!</span></p>
+                  
+                  <p class="panel">Human Torch: <span class="speech">Flamin’ fireballs! I don’t <span class="bold">get</span> it! What did <span class="bold">I</span>
+                        do??</span></p>
+                  </div>
+               
+               <div class="panel">
+                  
+                  <p class="caption"><span class="bold">T</span>HE NEXT DAY, THE <span class="bold">HUMAN TORCH</span> GIVES A PULSE-POUNDING DEMONSTRATION OF HIS
+                     FULL POWERS BEFORE RETURNING TO HIS HEADQUARTERS...</p>
+                  
+                  <p class="panel">Human Torch: <span class="thought">Wish <span class="bold">Spider-Man</span> was still around to join me in this show! But I don’t
+                        know where he cut out to!</span></p>
+                  
+                  <p class="panel">girl in crowd: <span class="speech">Now <span class="bold">there’s</span>
+                        my idea of a hero! The <span class="bold">Human Torch--</span>and a guy like <span class="bold">Spider-Man,</span> too! Why don’tcha watch and see what a <span class="bold">real</span> man is like, bookworm?</span></p>
+                  
+                  <p class="panel">Peter Parker: <span class="speech">Someday I’ll <span class="bold">tell</span> you why, loud mouth! And I’m sure gonna enjoy it! Yes sir,
+                        it’s gonna be a <span class="bold">real</span> pleasure!</span></p>
+                  
+                  <p class="caption"><span class="bold">A</span>ND, FOR THE FIRST TIME, A
+                     CASE ENDS WITHOUT PETER PARKER DELIVERING ANY PHOTOS TO MR. JAMESON! BUT,
+                     RIGHT NOW, PETER COULDN’T CARE LESS!</p>
+                  </div>
+               </section>
+         </div>
+      </section>
+      <p> <a href="https://archive.org/details/871-amazing-spiderman/3%20amazing%20spider%20man/page/n1/mode/2up"> Click here
+      </a> to see the website we got the comic from.</p>
+   </body>
 </html>
 

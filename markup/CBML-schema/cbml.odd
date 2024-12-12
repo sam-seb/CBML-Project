@@ -44,10 +44,6 @@
                 <p>This document is the original source; created on 23 November 2006.</p>
             </sourceDesc>
         </fileDesc>
-       <encodingDesc> 
-           <constraintDecl scheme="schematron" queryBinding="xslt3">
-               <sch:ns prefix="cbml" uri="http://www.cbml.org/ns/1.0"/>
-        </constraintDecl></encodingDesc>
     </teiHeader>
     <text>
         <body>
