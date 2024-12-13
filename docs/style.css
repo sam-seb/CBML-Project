@@ -70,8 +70,7 @@ ul.navbar li a:hover {
     border-radius: 15px;
     max-width: 600px;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.2); 
-    color: white;
-    background-image: url('images/web_bg.jpg'); 
+    color: white; 
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
