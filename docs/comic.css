@@ -4,32 +4,32 @@
 }
 
 body {
-    background-image: url('images/web_bg.jpg'); /* Add the web background */
-    background-size: cover; /* Ensure the background image covers the screen */
-    background-position: center; /* Center the background image */
-    background-attachment: fixed; /* Keep the background fixed during scrolling */
-    background-repeat: no-repeat; /* Prevent the background from repeating */
+    background-image: url('images/web_bg.jpg'); 
+    background-size: cover;
+    background-position: center; 
+    background-attachment: fixed; 
+    background-repeat: no-repeat; 
     font-family: 'WildWords', sans-serif;
     text-align: center;
     margin: 0;
     padding: 0;
-    color: white; /* Use white text for better readability */
+    color: white; 
 }
 
 header {
-    background-color: rgba(0, 0, 0, 0.8); /* Semi-transparent black for readability */
+    background-color: rgba(0, 0, 0, 0.8); 
     padding: 0;
     margin: 0;
 }
 
 header .header-image {
-    width: 100%; /* Make the image fill the entire width of the screen */
-    height: auto; /* Maintain the image's aspect ratio */
-    display: block; /* Remove any inline spacing */
+    width: 100%; 
+    height: auto; 
+    display: block; 
 }
 
 nav {
-    background-color: #b22222; /* Spider-Man red */
+    background-color: #b22222; 
     padding: 10px 0;
     border-bottom: 3px solid #7c0a0a;
 }
