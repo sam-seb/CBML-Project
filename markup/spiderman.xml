@@ -5,15 +5,15 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Amazing Spider Man</title>
+                <title>Amazing Spider-Man</title>
                 <author/>
                 <editor>Sam Sebulak and Temi Sakotek</editor>
                 <!-- Which of you is editing this file? Record yourself as an editor-->
             </titleStmt>
 
             <publicationStmt>
-                <publisher>...</publisher>
-                <date>...</date>
+                <publisher>Marvel Comics</publisher>
+                <date>May 1963</date>
                 <availability status="unknown">
                     <p>...</p>
                 </availability>
