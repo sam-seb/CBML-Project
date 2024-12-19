@@ -91,9 +91,7 @@
                         money!</cbml:balloon>
                     
                 </cbml:panel>
-                
-                <note>Three criminals are stealing a safe, but suddenly Spider-Man shows up to defeat them. He straps the three criminals up using his webs for the police to find.</note>
-                
+                <cbml:caption type="desc">Three criminals are stealing a safe, but suddenly Spider-Man shows up to defeat them. He straps the three criminals up using his webs for the police to find.</cbml:caption>
             </div>
             <div type="page" facs="../docs/images/asm_pg3.jpeg" n="3">
 
@@ -144,7 +142,7 @@
                             ALARM!</hi></cbml:balloon>
                 </cbml:panel>
                 
-                <note>Some scientists gather around to watch Doctor Otto Octavious, also known as Doctor Octopus, conduct his experiments using robotic arms.</note>
+                <cbml:caption type="desc">Some scientists gather around to watch Doctor Otto Octavious, also known as Doctor Octopus, conduct his experiments using robotic arms.</cbml:caption>
                 
                 
             </div>
@@ -194,7 +192,7 @@
                         his will! <hi rend="bold">No one!</hi></cbml:balloon>
                 </cbml:panel>
                 
-                <note>An explosion occurs! Doctor Octopus is caught in the blast and has absorbed radiation and wakes up in the hospital with the arms of his contraption adhered to his torso.</note>
+                <cbml:caption type="desc">An explosion occurs! Doctor Octopus is caught in the blast and has absorbed radiation and wakes up in the hospital with the arms of his contraption adhered to his torso. </cbml:caption>
                 
                 
             </div>
@@ -260,9 +258,6 @@
                         it!</cbml:balloon>
                     
                 </cbml:panel>
-                <note>Doctor Octopus uses his mind to control his artificial arms and break the
-                    bars on his window. Meanwhile, Jameson asks Peter Parker to get into the hospital to
-                    get pictures of Doctor Octopus.</note>
                 
             </div>
 
@@ -312,10 +307,6 @@
                         <hi rend="bold">Silence!</hi> Nobody is to speak when <hi rend="bold">Dr.
                             Octopus</hi> speaks!</cbml:balloon>
                 </cbml:panel>
-                
-                <note>Spider-Man scales the walls to get into the hospital, and he gets his
-                    first glimpse of Doctor Octopus through the corner of a window.</note>
-                
             </div>
 
             <div type="page" facs="../docs/images/asm_pg7.jpeg" n="7">
@@ -368,10 +359,6 @@
                             >me!</hi> You fool! When I'm finished with you, you’ll sing a <hi
                             rend="bold">different</hi> tune!</cbml:balloon>
                 </cbml:panel>
-                
-                <note>Spider-Man sees that Doctor Octopus is holding people prisoner and decides to jump
-                    into action. He swings in, breaking through the window and confronting Doctor Octopus.</note>
-                
             </div>
             <div type="page" facs="../docs/images/asm_pg8.jpeg" n="8">
                 <cbml:panel n="1">
@@ -412,10 +399,6 @@
                     <cbml:balloon type="speech" who="Doc Ock">And now, <hi rend="bold">Spider-man</hi>, I grow bored with
                         this game! My time is too valuable! </cbml:balloon>
                 </cbml:panel>
-                
-                <note>Spider-Man leaps at Doctor Octopus, however, the mechanical arms quickly overwhelm Spider-Man.</note>
-                
-                
             </div>
             <div type="page" facs="../docs/images/asm_pg9.jpeg" n="9">
                 <cbml:panel n="1">
@@ -442,10 +425,6 @@
                         BROKEN BY A TREE, AS HE FINALLY SLUMPS TO THE GROUND... IN
                         DEFEAT!</cbml:caption>
                 </cbml:panel>
-                
-                <note>Spider-Man in caught in Doctor Octopus' arms! Declaring himself the victor, Doc Ock tosses Spider-Man out the window.</note>
-                
-                
             </div>
             <div type="page" facs="../docs/images/asm_pg10.jpeg" n="10">
                 <cbml:panel n="1">
@@ -468,9 +447,6 @@
                 <cbml:panel n="6">
                     <cbml:balloon type="thought" who="Doc Ock">The security police aren’t apt to notice an extra pipe or two up on the ceiling! Once he’s gone, I can act freely!</cbml:balloon>
                 </cbml:panel> 
-                
-                <note>Spider-Man takes off his mask to catch his breath, a worried expression on his face. Meanwhile, Doctor Octopus finds somewhere to hide. He uses his mechanical arms to get through an unlocked window and crawl on the ceiling to avoid security.</note>
-                
             </div>
             <div type="page" facs="../docs/images/asm_pg11.jpeg" n="11">
                 <cbml:panel n="1">
@@ -498,9 +474,6 @@
                 <cbml:panel n="7">
                     <cbml:balloon type="speech" who="Worker ">There’s too much pressure in the main valves! The pipes are overheating… exploding! It isn’t safe to stay here!</cbml:balloon>
                 </cbml:panel>
-                
-                <note>Doctor Octopus takes over an atomic lab, throwing everyone else out of the control room. He quickly gets to work, using all of his mechanical arms to man the control panel.</note>
-                
             </div>
             <div type="page" facs="../docs/images/asm_pg12.jpeg" n="12">
                 <cbml:panel n="1">
@@ -534,9 +507,6 @@
                     <cbml:balloon type="speech" who="may">Peter, dear, what’s wrong? I can’t bear to see you so unhappy! Is there anything I can do to help?</cbml:balloon>
                     <cbml:balloon type="speech" who="Peter Parker">No, Aunt May... it’s... it’s my own personal problem! I’ll get over it! Got to leave now... time for school!</cbml:balloon>
                 </cbml:panel>
-                
-                <note>Doctor Octopus smiles maliciously, enjoying having control of the plant. The nation’s armed forces surround the plant. Meanwhile, Peter Parker mopes in his room, feeling defeated. He answers the phone and then leaves his house shortly after.</note>
-                
             </div>
             <div type="page" facs="../docs/images/asm_pg13.jpeg" n="13">
                 <cbml:panel n="1">
@@ -575,9 +545,6 @@
                     <cbml:balloon type="speech" who="Peter Parker">I want to thank you for that speech! I—I’ll never <hi rend="bold">forget</hi> what you said today! It meant a <hi rend="bold">lot</hi> to me!</cbml:balloon>
                     <cbml:balloon type="speech" who="Human Torch">Huh? Oh, Sure-- sure! Glad you enjoyed it, fella!</cbml:balloon>
                 </cbml:panel>
-                
-                <note>A miserable Peter Parker arrives at school and then sits in an assembly. As he listens to the speech, he realizes that he can’t give up. His face changes from one of defeat to one of determination.</note>
-                
             </div>
             <div type="page" facs="../docs/images/asm_pg14.jpeg" n="14">
                 <cbml:panel n="1">
@@ -604,9 +571,6 @@
                     <cbml:caption><hi rend="bold">B</hi>UT THE STRANGE SCIENTIST HAS EYES EVERYWHERE, AND...</cbml:caption>
                     <cbml:balloon type="thought" who="Doc Ock">It's <hi rend="bold">Spider-Man</hi> again! Well, <hi rend="bold">this</hi> time he won't be so lucky! <hi rend="bold">This</hi> time I'll finish him for good!</cbml:balloon>
                 </cbml:panel>
-                
-                <note>Peter Parker races home and puts on his Spider-Man suit. Spider-Man then hurries to the plant, using his webs to sling himself over the fence and past the guards. Alas, Doctor Octopus sees him through the security monitors inside.</note>
-                
             </div>
             <div type="page" facs="../docs/images/asm_pg15.jpeg" n="15">
                 <cbml:panel n="1">
@@ -628,9 +592,6 @@
                 <cbml:panel n="6">
                     <cbml:balloon type="thought" who="Doc Ock">He's found a way to evade my electronic scanners! Hmm... he's cleverer than I thought!</cbml:balloon>
                 </cbml:panel>
-                
-                <note>Doctor Octopus, watching Spider-Man on camera, tries to defeat Spider-Man by crushing him with machinery. Spider-Man leaps out of the way just in time. Realizing he’s on camera, Spider-Man and decides to crawl on the ceiling where he can’t be seen.</note>
-                
             </div>
             <div type="page" facs="../docs/images/asm_pg16.jpeg" n="16">
                 <cbml:panel n="1">
@@ -660,9 +621,6 @@
                         rend="bold">Doctor Octopus</hi> won’t give me a second chance if
                         anything goes wrong.</cbml:balloon>
                 </cbml:panel>
-                
-                <note>An overly confident Doctor Octopus looms in the doorway, awaiting Spider-Man. Spider-Man, meanwhile, finds a chemistry lab and cooks up a device. He mixes several chemicals together and ties them together using a length of rope.</note>
-                
             </div>
             <div type="page" facs="../docs/images/asm_pg17.jpeg" n="17">
                 <cbml:panel n="1">
@@ -711,9 +669,6 @@
                         <hi rend="bold">after</hi> I dispose of <hi rend="bold">you</hi> for
                         good!</cbml:balloon>
                 </cbml:panel>
-                
-                <note>With a coil of rope in each hand, Spider-Man goes in search of Doctor Octopus and narrowly avoids a sneak attack from behind. Spider-Man is able to get one of his devices around two of Doctor Octopus’ arms, which fused them together. Spider-Man leaps away from another attack from the remaining two arms.</note>
-                
             </div>
             <div type="page" facs="../docs/images/asm_pg18.jpeg" n="18">
                 <cbml:panel n="1">
@@ -759,10 +714,6 @@
                         me, his other arms are now around me -- pulling me toward him with
                         incredible strength!</cbml:balloon>
                 </cbml:panel>
-                
-                <note>With Doctor Octopus closing in on him, Spider-Man shoots Doctor Octopus in the face
-                    with his web. Doctor Octopus is now more focused on removing the webs from his face than fighting Spider-Man.</note>
-                
             </div>
             <div type="page" facs="../docs/images/asm_pg19.jpeg" n="19">
                 <cbml:panel n="1">
@@ -810,10 +761,6 @@
                     <cbml:balloon type="speech" who="Guard  2">Someone must have sneaked past us
                         and—<hi rend="bold">look!</hi> over there!</cbml:balloon>
                 </cbml:panel>
-                
-                <note>Doctor Octopus removes his glasses, which are covered in webs. However, Spider-Man knocks him unconscious with a punch to his face before he can react. The guards
-                    at the sentry post, upon hearing the commotion, run inside.</note>
-                
             </div>
             <div type="page" facs="../docs/images/asm_pg20.jpeg" n="20">
                 <cbml:panel n="1">
@@ -853,8 +800,6 @@
                     <cbml:balloon type="thought" who="Spiderman">My spider sense tells me that his
                         room is just ahead!</cbml:balloon>
                 </cbml:panel>
-                
-                <note>The guards go inside to find a tied up and helpless Doctor Octopus. Spider-Man has already fled, making his way into the city. He begins to scale hotel.</note>
             </div>
             <div type="page" facs="../docs/images/asm_pg21.jpeg" n="21">
                 <cbml:panel n="1">
@@ -907,10 +852,6 @@
                         CASE ENDS WITHOUT PETER PARKER DELIVERING ANY PHOTOS TO MR. JAMESON! BUT,
                         RIGHT NOW, PETER COULDN’T CARE LESS!</cbml:caption>
                 </cbml:panel>
-                
-                <note>Spider-Man makes his way to Torch’s hotel room and thanks him. He quickly swings away before Torch can properly react. The next day at school. Torch then gives a
-                    demonstration of his full powers as Peter Parker's classmates watch on in amazement.</note>
-                
             </div>
         </body>
     </text>

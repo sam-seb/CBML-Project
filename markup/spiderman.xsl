@@ -91,4 +91,7 @@
     <xsl:template match="hi">
         <span class="bold"><xsl:apply-templates/></span>
     </xsl:template>
+    <xsl:template match="note">
+        <p class="action"><xsl:apply-templates/></p>
+    </xsl:template>
 </xsl:stylesheet>

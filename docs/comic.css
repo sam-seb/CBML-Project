@@ -167,3 +167,8 @@ figure img {
         max-width: 100%; 
     }
 }
+
+p.action {
+    font-style: italic;
+    text-shadow: 1px 1px 2px black;
+}
