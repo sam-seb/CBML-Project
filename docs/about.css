@@ -124,16 +124,15 @@ ul {
 }
 
 footer {
-    background-color: rgba(0, 0, 0, 0.8);
-    padding: 15px;
-    margin-top: 20px;
+    margin-top: 30px;
+    padding: 10px;
+    background-color: rgba(0, 0, 0, 0.8); 
     color: white;
-    text-align: center;
-    font-size: 16px;
+    border-top: 3px solid #7c0a0a;
 }
 
 footer a {
-    color: #ff2400;
+    color: #fff;
     text-decoration: none;
 }
 

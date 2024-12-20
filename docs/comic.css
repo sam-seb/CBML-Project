@@ -172,3 +172,20 @@ p.action {
     font-style: italic;
     text-shadow: 1px 1px 2px black;
 }
+
+footer {
+    margin-top: 30px;
+    padding: 10px;
+    background-color: rgba(0, 0, 0, 0.8); 
+    color: white;
+    border-top: 3px solid #7c0a0a;
+}
+
+footer a {
+    color: #fff;
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}

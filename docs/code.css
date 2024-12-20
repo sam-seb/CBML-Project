@@ -10,6 +10,7 @@ body {
     background-attachment: fixed;
     background-repeat: no-repeat; 
     font-family: 'WildWords', sans-serif;
+    font-size: 20px; /* Updated font size */
     text-align: center;
     margin: 0;
     padding: 0;
@@ -45,7 +46,7 @@ ul.navbar {
 ul.navbar li a {
     text-decoration: none;
     color: white;
-    font-size: 18px;
+    font-size: 20px; /* Updated font size */
     padding: 10px 20px;
     border: 2px solid transparent;
     transition: 0.3s;
@@ -56,4 +57,21 @@ ul.navbar li a:hover {
     border: 2px solid white;
     border-radius: 5px;
     color: white;
+}
+
+footer {
+    margin-top: 30px;
+    padding: 10px;
+    background-color: rgba(0, 0, 0, 0.8); 
+    color: white;
+    border-top: 3px solid #7c0a0a;
+}
+
+footer a {
+    color: #fff;
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
 }
